@@ -1,0 +1,241 @@
+import csv
+import json
+
+from datetime import datetime, timedelta, timezone
+from pathlib import Path
+from typing import Set, Tuple
+
+# ============================================================================
+# Configuration
+# ============================================================================
+
+RECENT_DAYS = 365   # lookback period for malicious packages to keep feed from blowing up
+
+# this is passed into build_feed(<source_ecosystem>, <output_ecosystem>)
+# future support for package managers like PyPI may be added
+# the output ecosystem can be customized if the source name isn't preferred
+SUPPORTED_ECOSYSTEMS = {
+    "npm": "npm"
+}
+
+SOURCE_ROOT = Path("upstream/osv/malicious")
+OUTPUT_ROOT = Path("feeds")
+
+# ============================================================================
+# Helpers
+# ============================================================================
+
+# the source timestamp format needs to be corrected for Python use
+def parse_timestamp(value):
+
+    if not value:
+        return None
+
+    value = value.strip()
+
+    # remove fractional seconds 
+    if "." in value:
+        value = value.split(".", 1)[0] + "Z"
+
+    # convert Zulu time to UTC offset for Python
+    if value.endswith("Z"):
+        value = value[:-1] + "+00:00"
+
+    return datetime.fromisoformat(value)
+
+
+def write_csv(
+    path: Path,
+    rows: Set[Tuple[str, str, str]]
+):
+    path.parent.mkdir(
+        parents=True,
+        exist_ok=True
+    )
+
+    with open(
+        path,
+        "w",
+        encoding="utf-8",
+        newline=""
+    ) as f:
+
+        writer = csv.writer(f)
+
+        writer.writerow([
+            "Package",
+            "Version",
+            "MalId"
+        ])
+
+        writer.writerows(
+            sorted(
+                rows,
+                key=lambda x: (
+                    x[0].lower(),
+                    x[1],
+                    x[2]
+                )
+            )
+        )
+
+# ============================================================================
+# Feed Builder
+# ============================================================================
+
+def build_feed(source_ecosystem, output_ecosystem):
+
+    source_dir = SOURCE_ROOT / source_ecosystem
+
+    full_rows = set()   # set() automatically deduplicates rows
+    recent_rows = set()
+
+    cutoff = (
+        datetime.now(timezone.utc)
+        - timedelta(days=RECENT_DAYS)
+    )
+
+    for file in source_dir.rglob("*.json"):
+
+        try:
+            report = json.loads(
+                file.read_text(
+                    encoding="utf-8"
+                )
+            )
+
+        except Exception as e:
+            print(
+                f"Failed to parse {file}: {e}"
+            )
+            continue
+
+        # Skip withdrawn reports
+        if report.get("withdrawn"):
+            continue
+
+        mal_id = (
+            str(
+                report.get("id", "")
+            ).strip()
+        )
+
+        if not mal_id:
+            continue
+
+        modified = (
+            parse_timestamp(
+                report.get("modified")
+            )
+            or
+            parse_timestamp(
+                report.get("published")
+            )
+        )
+
+        for affected in report.get(
+            "affected",
+            []
+        ):
+
+            if not isinstance(
+                affected,
+                dict
+            ):
+                continue
+
+            package_info = affected.get(
+                "package",
+                {}
+            )
+
+            ecosystem = package_info.get(
+                "ecosystem",
+                ""
+            )
+
+            if (
+                ecosystem
+                and ecosystem.lower()
+                != source_ecosystem.lower()
+            ):
+                continue
+
+            package = (
+                str(
+                    package_info.get(
+                        "name",
+                        ""
+                    )
+                ).strip()
+            )
+
+            if not package:
+                continue
+
+            versions = affected.get(
+                "versions"
+            )
+
+            if not versions:
+                versions = [""]
+
+            for version in versions:
+
+                version = str(version).strip()
+
+                row = (
+                    package,
+                    version,
+                    mal_id
+                )
+
+                full_rows.add(row)
+
+                if (
+                    modified
+                    and modified >= cutoff
+                ):
+                    recent_rows.add(row)
+
+    # Safety check so a repo/parser change doesn't wipe out the feed.
+    if not full_rows:
+        raise RuntimeError(
+            f"No rows generated for "
+            f"{source_ecosystem}"
+        )
+
+    output_dir = (
+        OUTPUT_ROOT
+        / output_ecosystem
+    )
+
+    write_csv(
+        output_dir /
+        "malicious-packages.csv",
+        full_rows
+    )
+
+    write_csv(
+        output_dir /
+        "malicious-packages-recent.csv",
+        recent_rows
+    )
+
+    print(
+        f"{source_ecosystem}: "
+        f"{len(full_rows)} full rows, "
+        f"{len(recent_rows)} recent rows"
+    )
+
+# ============================================================================
+# Main
+# ============================================================================
+
+for source_ecosystem, output_ecosystem in (
+    SUPPORTED_ECOSYSTEMS.items()
+):
+    build_feed(
+        source_ecosystem,
+        output_ecosystem
+    )
