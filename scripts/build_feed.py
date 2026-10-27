@@ -87,8 +87,9 @@ def build_feed(source_ecosystem, output_ecosystem):
 
     source_dir = SOURCE_ROOT / source_ecosystem
 
-    full_rows = set()   # set() automatically deduplicates rows
-    recent_rows = set()
+    # set() automatically deduplicates rows
+    full_rows = set()   # all entries, regardless of when modified
+    recent_rows = set() # only recent entries for lighter queries, based on RECENT_DAYS value
 
     cutoff = (
         datetime.now(timezone.utc)
@@ -120,9 +121,11 @@ def build_feed(source_ecosystem, output_ecosystem):
             ).strip()
         )
 
+        # skip empty ID/malformed reports
         if not mal_id:
             continue
 
+        # modified date is the priority, otherwise use published date
         modified = (
             parse_timestamp(
                 report.get("modified")
@@ -155,9 +158,7 @@ def build_feed(source_ecosystem, output_ecosystem):
             )
 
             if (
-                ecosystem
-                and ecosystem.lower()
-                != source_ecosystem.lower()
+                ecosystem.lower() != source_ecosystem.lower()
             ):
                 continue
 
@@ -177,6 +178,7 @@ def build_feed(source_ecosystem, output_ecosystem):
                 "versions"
             )
 
+            # creates empty list if no versions specified, to simplify row generation logic
             if not versions:
                 versions = [""]
 
@@ -232,10 +234,13 @@ def build_feed(source_ecosystem, output_ecosystem):
 # Main
 # ============================================================================
 
-for source_ecosystem, output_ecosystem in (
-    SUPPORTED_ECOSYSTEMS.items()
-):
-    build_feed(
-        source_ecosystem,
-        output_ecosystem
-    )
+def main():
+    for source_ecosystem, output_ecosystem in SUPPORTED_ECOSYSTEMS.items():
+        build_feed(
+            source_ecosystem,
+            output_ecosystem
+        )
+
+
+if __name__ == "__main__":
+    main()
