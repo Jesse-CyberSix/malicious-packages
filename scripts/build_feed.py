@@ -11,6 +11,7 @@ from typing import Set, Tuple
 # ============================================================================
 
 RECENT_DAYS = 365   # lookback period for malicious packages to keep feed from blowing up
+# TODO: Add support for custom full record date limit
 
 # this is passed into build_feed(<source_ecosystem>, <output_ecosystem>)
 # future support for package managers like PyPI may be added
@@ -18,6 +19,7 @@ RECENT_DAYS = 365   # lookback period for malicious packages to keep feed from b
 SUPPORTED_ECOSYSTEMS = {
     "npm": "npm"
 }
+# TODO: Add support for other ecosystems
 
 SOURCE_ROOT = Path("upstream/osv/malicious")
 OUTPUT_ROOT = Path("feeds")
