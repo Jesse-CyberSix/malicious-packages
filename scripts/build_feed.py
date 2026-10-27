@@ -34,12 +34,11 @@ def parse_timestamp(value):
 
     value = value.strip()
 
-    # remove fractional seconds 
+    # remove fractional seconds and convert to UTC offset for Python
     if "." in value:
-        value = value.split(".", 1)[0] + "Z"
-
-    # convert Zulu time to UTC offset for Python
-    if value.endswith("Z"):
+        value = value.split(".", 1)[0] + "+00:00"
+    # convert Zulu time without fractional seconds to UTC offset for Python
+    elif value.endswith("Z"):
         value = value[:-1] + "+00:00"
 
     return datetime.fromisoformat(value)
@@ -106,9 +105,9 @@ def build_feed(source_ecosystem, output_ecosystem, dry_run=False):
                 )
             )
 
-        except Exception as e:
+        except (OSError, UnicodeError, json.JSONDecodeError) as error:
             print(
-                f"Failed to parse {file}: {e}"
+                f"Failed to parse {file}: {error}"
             )
             continue
 
@@ -244,7 +243,7 @@ def main():
     )
 
     parser.add_argument(
-        "--dry-run:",
+        "--dry-run",
         action="store_true",
         help="Calculate feed contents withour writing to CSV files."
     )
