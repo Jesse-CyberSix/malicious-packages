@@ -1,5 +1,6 @@
 import csv
 import json
+import argparse
 
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -83,7 +84,7 @@ def write_csv(
 # Feed Builder
 # ============================================================================
 
-def build_feed(source_ecosystem, output_ecosystem):
+def build_feed(source_ecosystem, output_ecosystem, dry_run=False):
 
     source_dir = SOURCE_ROOT / source_ecosystem
 
@@ -212,20 +213,23 @@ def build_feed(source_ecosystem, output_ecosystem):
         / output_ecosystem
     )
 
-    write_csv(
-        output_dir /
-        "malicious-packages.csv",
-        full_rows
-    )
+    if not dry_run:
+        write_csv(
+            output_dir /
+            "malicious-packages.csv",
+            full_rows
+        )
 
-    write_csv(
-        output_dir /
-        "malicious-packages-recent.csv",
-        recent_rows
-    )
+        write_csv(
+            output_dir /
+            "malicious-packages-recent.csv",
+            recent_rows
+        )
+
+    mode = "DRY RUN" if dry_run else "GENERATED"
 
     print(
-        f"{source_ecosystem}: "
+        f"{source_ecosystem} [{mode}]: "
         f"{len(full_rows)} full rows, "
         f"{len(recent_rows)} recent rows"
     )
@@ -235,10 +239,24 @@ def build_feed(source_ecosystem, output_ecosystem):
 # ============================================================================
 
 def main():
+    parser = argparse.ArgumentParser(
+        description="Build malicious package feeds from OpenSSF data."
+    )
+
+    parser.add_argument(
+        "--dry-run:",
+        action="store_true",
+        help="Calculate feed contents withour writing to CSV files."
+    )
+
+    args = parser.parse_args()
+
+
     for source_ecosystem, output_ecosystem in SUPPORTED_ECOSYSTEMS.items():
         build_feed(
             source_ecosystem,
-            output_ecosystem
+            output_ecosystem,
+            dry_run=args.dry_run
         )
 
 
