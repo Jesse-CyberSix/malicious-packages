@@ -245,7 +245,7 @@ def main():
     parser.add_argument(
         "--dry-run",
         action="store_true",
-        help="Calculate feed contents withour writing to CSV files."
+        help="Calculate feed contents without writing to CSV files."
     )
 
     args = parser.parse_args()
