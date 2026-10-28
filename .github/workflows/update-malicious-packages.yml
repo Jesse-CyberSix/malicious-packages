@@ -1,0 +1,28 @@
+name: Update malicious package feeds
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  dry-run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out feed repository
+        uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.14"
+
+      - name: Clone OpenSSF malicious-packages
+        run: |
+          git clone --depth 1 https://github.com/ossf/malicious-packages.git upstream
+
+      - name: Run feed builder
+        run: |
+          python scripts/build_feed.py --dry-run
