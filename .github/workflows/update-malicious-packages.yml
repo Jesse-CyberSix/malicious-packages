@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   dry-run:
@@ -29,5 +29,23 @@ jobs:
 
       - name: Show feed sizes
         run: |
+          # include only and all files for all supported ecosystems
           ls -lh feeds/npm/
           du -h feeds/npm/*.csv
+
+      - name: Commit updated feeds
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # include only and all files for all supported ecosystems
+          git add feeds/npm/malicious-packages.csv
+          git add feeds/npm/malicious-packages-recent.csv
+
+          if git diff --cached --quiet; then
+            echo "No feed changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Update malicious npm package feeds"
+          git push
