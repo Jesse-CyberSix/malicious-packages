@@ -99,6 +99,9 @@ def build_feed(source_ecosystem, output_ecosystem, dry_run=False):
     )
 
     for file in source_dir.rglob("*.json"):
+        # ignores directories, as some in the repo end with .json
+        if not file.is_file():
+            continue
 
         try:
             report = json.loads(
