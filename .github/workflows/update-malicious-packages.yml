@@ -25,4 +25,9 @@ jobs:
 
       - name: Run feed builder
         run: |
-          python scripts/build_feed.py --dry-run
+          python scripts/build_feed.py
+
+      - name: Show feed sizes
+        run: |
+          ls -lh feeds/npm/
+          du -h feeds/npm/*.csv
