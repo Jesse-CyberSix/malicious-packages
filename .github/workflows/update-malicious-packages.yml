@@ -7,7 +7,7 @@ permissions:
   contents: write
 
 jobs:
-  dry-run:
+  update-feeds:
     runs-on: ubuntu-latest
 
     steps:
