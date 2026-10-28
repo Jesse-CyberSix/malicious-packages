@@ -1,6 +1,9 @@
-name: Update malicious package feeds
+name: Daily update of malicious package feeds
 
 on:
+  schedule:
+    - cron: 0 0 * * * # runs daily at midnight UTC
+
   workflow_dispatch:
 
 permissions:
