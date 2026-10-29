@@ -3475,9 +3475,26 @@ Package,Version,MalId
 @f5rest/odata-v4-parser,99.0.0,MAL-2026-1621
 @f5rest/odata-v4-server,99.0.0,MAL-2026-1622
 @f5rest/odata-v4-service-metadata,99.0.0,MAL-2026-1623
+@factiii/runner,0.16.0,MAL-2026-18204
+@factiii/runner,0.17.0,MAL-2026-18204
+@factiii/runner,0.17.1,MAL-2026-18204
+@factiii/runner,0.18.0,MAL-2026-18204
+@factiii/runner,0.18.1,MAL-2026-18204
+@factiii/runner,0.19.0,MAL-2026-18204
+@factiii/runner,0.20.0,MAL-2026-18204
+@factiii/runner,0.20.1,MAL-2026-18204
+@factiii/runner,0.21.0,MAL-2026-18204
+@factiii/runner,0.22.0,MAL-2026-18204
+@factiii/runner,0.22.1,MAL-2026-18204
+@factiii/runner,0.23.2,MAL-2026-18204
+@factiii/runner,0.25.0,MAL-2026-18204
+@factiii/runner,0.26.0,MAL-2026-18204
+@factiii/runner,0.26.1,MAL-2026-18204
+@factiii/runner,0.26.2,MAL-2026-18204
 @factiii/runner,0.28.0,MAL-2026-18204
 @factiii/runner,0.33.0,MAL-2026-18204
 @factiii/runner,0.35.0,MAL-2026-18204
+@factiii/runner,0.36.0,MAL-2026-18204
 @factoryz/apollo,99.9.1,MAL-2026-18278
 @fahmisugeng13/tea_fahmisugeng13,,MAL-2025-170606
 @fairwords/encryption,0.0.5,MAL-2026-2506
@@ -10239,6 +10256,9 @@ Package,Version,MalId
 @testrelic/appium-analytics,1.1.1-next.88,MAL-2026-15647
 @testrelic/playwright-analytics,2.12.1-next.88,MAL-2026-15565
 @testrelic/playwright-analytics,2.13.0,MAL-2026-15565
+@testsecuiitytestme/cache-helper,1.0.1,MAL-2026-18358
+@testsecuiitytestme/cache-helper,1.0.2,MAL-2026-18358
+@testsecuiitytestme/cache-helper,1.0.3,MAL-2026-18358
 @tezign/html-webpack-plugin,,MAL-2025-190916
 @than-xs/libsignal-node,,MAL-2026-2848
 @than1st/baileys,2.0.5,MAL-2026-2849
@@ -11591,6 +11611,13 @@ Package,Version,MalId
 @zahlen/checkout,0.2.2,MAL-2026-13391
 @zahlen/checkout-angular,0.1.4,MAL-2026-12332
 @zahlen/checkout-react,0.1.1,MAL-2026-12333
+@zaip-ai/cli,6.4.0,MAL-2026-18364
+@zaip-ai/cli,6.5.0,MAL-2026-18364
+@zaip-ai/cli,7.0.0,MAL-2026-18364
+@zaip-ai/cli,7.1.0,MAL-2026-18364
+@zaip-ai/cli,7.2.0,MAL-2026-18364
+@zaip-ai/cli,7.3.0,MAL-2026-18364
+@zaip-ai/cli,7.4.0,MAL-2026-18364
 @zaka13/thing,1.0.0,MAL-2026-16200
 @zaka13/zakasite,,MAL-2026-17810
 @zakhaevv/envai,,MAL-2026-1172
@@ -23227,6 +23254,7 @@ azure-postgresql-auth,1.1.2,MAL-2026-975
 azure-postgresql-auth,1.1.4,MAL-2026-975
 azurestack-common,1.0.1,MAL-2026-2335
 azurestack-common,1.0.2,MAL-2026-2335
+b20miner,0.3.1,MAL-2026-18365
 b2b-common-cb-lib,100.0.0,MAL-2026-1356
 b2b-common-cb-lib,99.99.99,MAL-2026-1356
 b2b-frontend-external-library,0.0.1,MAL-2026-16008
@@ -26364,7 +26392,6 @@ billing-paywidget,99.0.0,MAL-2026-2638
 bimasatria,,MAL-2025-170985
 bimi-maker,8.2.4,MAL-2026-10579
 binai-otaima-ufua,,MAL-2025-153754
-binance-connector-js,,MAL-2025-48615
 bind-error,1.0.0,MAL-2025-41536
 binding-coral-alpaca,,MAL-2025-66964
 binding-green-cricket,,MAL-2025-66965
@@ -26710,6 +26737,7 @@ bjs-lint-builders,1.0.4,MAL-2026-2881
 bjs-lint-builders,1.0.5,MAL-2026-2881
 bjs-lint-builders,1.1.0,MAL-2026-2881
 black-moon-js,1.0.0,MAL-2026-2870
+black-spindle,999.0.0,MAL-2026-18359
 blackbeard-navigator-ctf,,MAL-2025-49281
 blackbeards-navigator,207.0.0,MAL-2026-3199
 blackbeards-navigator,209.0.0,MAL-2026-3199
@@ -35456,7 +35484,6 @@ cloud-baileys,1.1.41,MAL-2026-17751
 cloud-baileys,1.1.42,MAL-2026-17751
 cloud-class-stack-xml-runtime,,MAL-2025-186172
 cloud-config-fetcher,,MAL-2026-11165
-cloud-data,,MAL-2025-48617
 cloud-fire-grid-kernel-cron,,MAL-2025-186173
 cloud-pc-templates,1.3.0,MAL-2026-4528
 cloud-run-microservice-template,9.9.9,MAL-2026-2747
@@ -37989,7 +38016,6 @@ core-tailwindcss-utility,3.7.1,MAL-2026-14118
 core-utility-tools,,MAL-2026-4308
 core_main,10.9.9,MAL-2026-15668
 corehome,7.0.1,MAL-2025-2623
-coreipc,2.0.0,MAL-2025-48618
 corelia,4.1.12,MAL-2026-4536
 coremesh,2.4.5,MAL-2026-2750
 coremeshnode,2.4.5,MAL-2026-2751
@@ -39094,7 +39120,6 @@ ctyedw-devapp,,MAL-2025-101133
 cua-primitives-server,,MAL-2026-2247
 cuavnj-devapp,,MAL-2025-101134
 cuckoo_scarlet-99,,MAL-2025-97680
-cucumber-js-cypress-cucumber,,MAL-2025-48620
 cucumber-notthedevs,,MAL-2025-101135
 cuddly-amber-meadowlark,,MAL-2025-67578
 cuddly-aquamarine-coyote,,MAL-2025-67579
@@ -39465,7 +39490,6 @@ cypress-sails-quasar-json,,MAL-2025-141407
 cypress-spectron-webdriver-postcss-loader-canopus,,MAL-2025-141408
 cypress-technosignature-solarnebula-protractor,,MAL-2025-186451
 cypress-triton-figures-sails,,MAL-2025-141409
-cypress-typescript,,MAL-2025-48621
 cypress-unuk-helios-bellatrix,,MAL-2025-141410
 cypress-upgrade-yildun-atlas,,MAL-2025-141411
 cypress-vuetify-mutation-hermes,,MAL-2025-186452
@@ -57980,7 +58004,6 @@ feature-flag-service,2.0.2,MAL-2026-3253
 feature-flag-service,2.0.3,MAL-2026-3253
 feature-flip,1.0.1,MAL-2025-191091
 feature-flip,1.0.2,MAL-2025-191091
-feature-reporter,,MAL-2025-48681
 fec-cms,5.0.8,MAL-2025-49313
 fec-cms,5.0.9,MAL-2025-49313
 fed-callnative,99.9.1,MAL-2026-5668
@@ -58574,8 +58597,6 @@ firefly_crimson-34-tisubasah,,MAL-2025-97809
 firestore-lite,45.0.0,MAL-2026-15534
 firestore-search-engine,1.2.3,MAL-2025-191092
 firestore-types,,MAL-2026-219
-firewall-node,100.101.1337,MAL-2025-4049
-firewall-node,5.0.0,MAL-2025-4049
 firm-aquamarine-termite,,MAL-2025-68335
 firm-emerald-firefly,,MAL-2025-68336
 firm-lime-butterfly,,MAL-2025-68337
@@ -69198,7 +69219,6 @@ hellospa,96.999.0,MAL-2025-190579
 hellowornd,50.5.5,MAL-2026-4839
 hellowornd,50.5.7,MAL-2026-4839
 hellowornd,50.6.7,MAL-2026-4839
-helm-charts-monorepo,1.0.0,MAL-2025-48688
 helmet-atlas-dione-juno,,MAL-2025-143244
 helmet-blaze-eridanus-galaxy,,MAL-2025-143245
 helmet-blitz-izar-update,,MAL-2025-187322
@@ -75110,7 +75130,6 @@ influential_tahr_z3n,,MAL-2025-114808
 influential_turtle_harlequin-86,,MAL-2025-112019
 info-byte-simulate-cat-sudo,,MAL-2025-187468
 info-user-wind-book-sanitize,,MAL-2025-187469
-infobip-calls-showcase,,MAL-2025-48692
 infomedia,,MAL-2026-14530
 informal-amber-boar,,MAL-2025-68885
 informal-aquamarine-lamprey,,MAL-2025-68886
@@ -78096,8 +78115,10 @@ ito-button,8.0.3,MAL-2025-190970
 itobuz-angular,0.0.1,MAL-2025-190971
 itobuz-angular-auth,8.0.11,MAL-2025-190972
 itobuz-angular-button,8.0.11,MAL-2025-190973
+itsa-react-checkbox,16.0.5,MAL-2026-18360
 itsa-react-focuscontainer,16.0.10,MAL-2026-17910
 itsa-react-maskedinput,16.1.2,MAL-2026-17911
+itsa-utils,1.4.2,MAL-2026-18363
 itsmeeaizat-bailey,1.0.3,MAL-2026-17311
 itsmeeaizat-bailey,1.0.4,MAL-2026-17311
 itsmeeaizat-bailey,1.0.5,MAL-2026-17311
@@ -85693,7 +85714,6 @@ kuaishou,99.9.11,MAL-2026-10416
 kuaishou,99.9.9,MAL-2026-10416
 kubebuilder,,MAL-2025-191512
 kubeflow,99.0.0,MAL-2025-49304
-kubernetes-agent,2.40.0,MAL-2025-48697
 kubernetes-controller-tools,,MAL-2025-191513
 kubernetes-helm,,MAL-2025-191514
 kuinsnu-lki-kadgdgdumi,,MAL-2025-157676
@@ -101110,6 +101130,7 @@ mock-easy-tree-long-cloud,,MAL-2025-188091
 mock-parse-earth-export-hot,,MAL-2025-188092
 mock-sandbox-private-stub-view,,MAL-2025-188093
 mock-string-simple-final-data,,MAL-2025-188094
+mock-transactions-sdk,,MAL-2026-18361
 mock-xml-omicron-protected-class,,MAL-2025-188095
 mockupnul,7.8.1,MAL-2025-47077
 mod-manager,0.0.1-security,MAL-2025-49233
@@ -105218,7 +105239,6 @@ nafeesabdul,,MAL-2025-171615
 nafeesameennafeesameen,,MAL-2025-171616
 nafeesashraf,,MAL-2025-171617
 nafeesnabeel,,MAL-2025-171618
-naftis,2.0.0,MAL-2025-48742
 nagix-node,2.1.6,MAL-2026-11525
 nagix-nodejs,2.1.6,MAL-2026-11526
 nagixjs,2.1.6,MAL-2026-11541
@@ -108441,7 +108461,6 @@ node-internal-svg-loader,1.0.1,MAL-2026-13766
 node-ipc,12.0.1,MAL-2026-3744
 node-ipc,9.1.6,MAL-2026-3744
 node-ipc,9.2.3,MAL-2026-3744
-node-js-playwright-browserstack,,MAL-2025-48744
 node-logger-winston,,MAL-2026-11341
 node-loggerx,0.3.0,MAL-2025-6366
 node-loggerx,0.3.1,MAL-2025-6366
@@ -123901,7 +123920,6 @@ puppeteer-fornax-prettier-deneb,,MAL-2025-188979
 puppeteer-ganymede-hermes-flare,,MAL-2025-146853
 puppeteer-geckodriver-redshift-eslint-config,,MAL-2025-188980
 puppeteer-init-eclipse-quantum,,MAL-2025-146854
-puppeteer-jest,,MAL-2025-48753
 puppeteer-meissa-prettier-plugin-markdown-sadr,,MAL-2025-188981
 puppeteer-meissa-reveal-md-backend,,MAL-2025-146855
 puppeteer-module-sails-nextjs,,MAL-2025-188982
@@ -129114,7 +129132,6 @@ renewed_weasel_0xrequest,,MAL-2025-107906
 renewed_whitefish-appteadev,,MAL-2025-107907
 renovate-config-doctolib,,MAL-2026-2830
 replicate-js,,MAL-2026-427
-replit-desktop-release-server,,MAL-2025-48757
 repo-typescript-config,99.0.0,MAL-2026-2009
 repo-typescript-config,99.0.11,MAL-2026-2009
 repo-typescript-config,99.0.25,MAL-2026-2009
@@ -129470,7 +129487,6 @@ respective_unicorn_0xrequest,,MAL-2025-107966
 respective_wildcat_silver-33,,MAL-2025-112257
 respective_wombat_0xrequest,,MAL-2025-107967
 respects-switch,999.0.0,MAL-2026-6259
-response-uppercase,,MAL-2025-48758
 responses-starter-app,,MAL-2026-889
 responsible-ai,,MAL-2026-890
 responsible-azure-harrier,,MAL-2025-70365
@@ -138346,7 +138362,6 @@ shrimp-notthedevs,,MAL-2025-108647
 shroom-kit,,MAL-2026-428
 shsk,,MAL-2026-11379
 shugll-devapptea,,MAL-2025-108648
-shutterstock-cli,,MAL-2025-48762
 shy-brown-giraffe,,MAL-2025-70608
 shy-crimson-whitefish,,MAL-2025-70609
 shy-red-snake,,MAL-2025-139005
@@ -154525,6 +154540,7 @@ tragic_wren_z3n,,MAL-2025-117532
 trailserver,1.0.5,MAL-2026-12484
 tramvai-module-feature-toggle,20.5.3,MAL-2026-12285
 tramvai-tinkoff-module-legacy-popup,20.4.9,MAL-2026-12052
+transaction-info-generate-sdk,,MAL-2026-18362
 transacts,,MAL-2026-5368
 transcript-viewer-ui-demo,9.9.9,MAL-2026-2804
 transform-apex-sadr-standard,,MAL-2025-148757
@@ -156171,7 +156187,6 @@ twilio-hackerone-poc-b8f21a,1.0.0,MAL-2026-16097
 twilio-hackerone-poc-b8f21a,1.0.1,MAL-2026-16097
 twilio-internal,99.99.100,MAL-2026-10934
 twilio-internal,99.99.99,MAL-2026-10934
-twilio-live-interactive-audio,,MAL-2025-48766
 twilio-platform-async-data-fetch,99.99.100,MAL-2026-10935
 twilio-platform-async-data-fetch,99.99.99,MAL-2026-10935
 twilio-platform-request,99.99.100,MAL-2026-10936
@@ -166225,7 +166240,6 @@ weaviate-js,,MAL-2026-434
 web-advertising,999.9.15,MAL-2026-14440
 web-advertising,999.9.16,MAL-2026-14440
 web-api-node,,MAL-2026-6747
-web-billing-code-snippets,,MAL-2025-48771
 web-compile-deploy-load-secure,,MAL-2025-190253
 web-container-container-sigma-optimize,,MAL-2025-190254
 web-dotenv,1.0.2,MAL-2026-4728
