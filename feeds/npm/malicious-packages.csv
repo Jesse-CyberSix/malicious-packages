@@ -735,13 +735,13 @@ Package,Version,MalId
 7702-eoa-implementation,,MAL-2025-6683
 7715-permissions-shared,2.0.0,MAL-2025-191493
 77z8zt,,MAL-2025-7026
-789bet,,MAL-2026-18382
-789bet-entrance,,MAL-2026-18383
-789bet-login-th,,MAL-2026-18384
-789bet-slot,,MAL-2026-18385
-789bet-vip,,MAL-2026-18386
-789bet-vip-login,,MAL-2026-18387
-789bet-vip-online-login,,MAL-2026-18388
+789bet,0.0.0-stage,MAL-2026-18382
+789bet-entrance,0.0.0-stage,MAL-2026-18383
+789bet-login-th,0.0.0-stage,MAL-2026-18384
+789bet-slot,0.0.0-stage,MAL-2026-18385
+789bet-vip,0.0.0-stage,MAL-2026-18386
+789bet-vip-login,0.0.0-stage,MAL-2026-18387
+789bet-vip-online-login,0.0.0-stage,MAL-2026-18388
 79a3ed,,MAL-2025-7027
 7h3n00b2,,MAL-2022-42
 7kuwgb,,MAL-2025-7028
@@ -3339,7 +3339,8 @@ Package,Version,MalId
 @chatunity/baileys,2.0.9,MAL-2026-17287
 @chatunity/baileys,3.2.0,MAL-2026-17287
 @chatunity/baileys,3.2.1,MAL-2026-17287
-@chatunitycenter/baileys,,MAL-2026-18392
+@chatunitycenter/baileys,0.0.0-stage,MAL-2026-18392
+@chatunitycenter/baileys,1.0.0,MAL-2026-18392
 @checkbox-technology-pty-ltd/custom-block-kit,1.0.1,MAL-2025-5315
 @checkrhq/adjudication-api-client,0.0.2,MAL-2026-6789
 @chegg-me-components/header,,MAL-2022-168
@@ -5959,6 +5960,7 @@ Package,Version,MalId
 @emilgroup/customer-sdk-node,1.55.2,MAL-2026-2045
 @emilgroup/discount-sdk,1.14.0,MAL-2026-2074
 @emilgroup/discount-sdk,1.14.1-beta.8,MAL-2026-2074
+@emilgroup/discount-sdk,1.14.1-beta.9,MAL-2026-2074
 @emilgroup/discount-sdk,1.5.1,MAL-2026-2074
 @emilgroup/discount-sdk,1.5.2,MAL-2026-2074
 @emilgroup/discount-sdk,1.5.3,MAL-2026-2074
@@ -6483,6 +6485,7 @@ Package,Version,MalId
 @factiii/runner,0.33.0,MAL-2026-18204
 @factiii/runner,0.35.0,MAL-2026-18204
 @factiii/runner,0.36.0,MAL-2026-18204
+@factiii/runner,0.37.0,MAL-2026-18204
 @factoryz/apollo,99.9.1,MAL-2026-18278
 @fahmisugeng13/tea_fahmisugeng13,,MAL-2025-170606
 @fairwords/encryption,0.0.5,MAL-2026-2506
@@ -8179,7 +8182,7 @@ Package,Version,MalId
 @japofc/baileys,2.4.1,MAL-2026-17359
 @japofc/baileys,2.4.2,MAL-2026-17359
 @japofc/baileys,2.4.3,MAL-2026-17359
-@jasperquinn/postcss-motion-helpers,,MAL-2026-18379
+@jasperquinn/postcss-motion-helpers,0.0.0-stage,MAL-2026-18379
 @jaswanthlanka/mcp-proxy,,MAL-2025-6139
 @jayeshsadhwani/telemetry-sdk,1.0.14,MAL-2025-191238
 @jaymara/jsononifier,1.0.0,MAL-2026-10177
@@ -11835,6 +11838,7 @@ Package,Version,MalId
 @nexe/config-manager,0.1.1,MAL-2025-47247
 @nexe/eslint-config,0.1.1,MAL-2025-47248
 @nexe/logger,0.1.3,MAL-2025-47249
+@nexlayerlabs/postcss-keyframe-utils,,MAL-2026-18407
 @next-fonts/font,1.0.0,MAL-2026-14346
 @next-fonts/font,1.0.1,MAL-2026-14346
 @next-translate-root/i18n,1.0.1,MAL-2024-2498
@@ -13612,6 +13616,7 @@ Package,Version,MalId
 @pb-digital/ui-library,,MAL-2025-47986
 @pb-shared/storybook-react-library,,MAL-2022-498
 @pc-analytics-filter/core,99.88.1,MAL-2025-47391
+@pcb-dp/qa-commons,,MAL-2026-18413
 @pcid/client-request-builder,99.50.56,MAL-2024-9470
 @pcid/storage-utils,,MAL-2025-9232
 @pcid/string-utils,,MAL-2025-9233
@@ -16975,6 +16980,7 @@ Package,Version,MalId
 @swiggy-private/js-utils,99999999.10012.9999,MAL-2024-12168
 @swiggy-private/js-utils,99999999.99.9999,MAL-2024-12168
 @swiggy-private/js-utils,99999999.999.9999,MAL-2024-12168
+@sxm-content-creators/tools-ds,,MAL-2026-18414
 @sxm-web/client-sdk-core,0.0.0-stage,MAL-2026-18319
 @sxm-web/client-sdk-core,0.0.1,MAL-2026-18319
 @sxm-web/client-sdk-core,0.1.0,MAL-2026-18319
@@ -17950,6 +17956,7 @@ Package,Version,MalId
 @toprank/partner,99.99.12,MAL-2026-2447
 @toprank/partner,99.99.13,MAL-2026-2447
 @toprimitive/nif,99.9.9,MAL-2026-7096
+@tops2/digital-assistant-ui,,MAL-2026-18415
 @toptal/davinci-cloudflare-requests-handler,0.2.2,MAL-2025-6035
 @toptal/davinci-graphql-codegen-extensions,1.1.5,MAL-2025-6036
 @toptal/davinci-monorepo,12.1.1,MAL-2025-6037
@@ -35073,6 +35080,7 @@ apex-chart-react,,MAL-2022-1035
 apex-connector,1.0.4,MAL-2026-3816
 apex-dotenv-parse-variables-wezen-ora,,MAL-2025-139476
 apex-electron-protractor-mini-css-extract-plugin,,MAL-2025-185489
+apex-fetch,,MAL-2026-18410
 apex-fork-jupiter-winston,,MAL-2025-185490
 apex-frontend-bootstrap-dynamo,,MAL-2025-139477
 apex-frontend-jasmine-bellatrix,,MAL-2025-139478
@@ -43403,7 +43411,8 @@ bcs-core,1.0.0,MAL-2026-14105
 bcs-mini,1.0.0,MAL-2026-14076
 bcs-mini,1.0.1,MAL-2026-14076
 bcsgb0,,MAL-2024-9130
-bcxhdh1kjlopsde,,MAL-2026-18380
+bcxhdh1kjlopsde,0.0.0-stage,MAL-2026-18380
+bcxhdh1kjlopsde,1.0.0,MAL-2026-18380
 bcztpuiojndlhmvx,,MAL-2022-1485
 bd-header-component,,MAL-2025-15546
 bdc-materials,7.1.9,MAL-2024-10554
@@ -56598,7 +56607,8 @@ cj-tests-2fa,,MAL-2025-17078
 cjblog,,MAL-2025-17079
 cjdfswifuem3,1.0.0,MAL-2026-13793
 cjkbrzfawhsudito,,MAL-2025-17080
-cjlowuxbnexkhgpzq,,MAL-2026-18381
+cjlowuxbnexkhgpzq,0.0.0-stage,MAL-2026-18381
+cjlowuxbnexkhgpzq,1.0.0,MAL-2026-18381
 cjs-biginteger,5.0.3,MAL-2026-2882
 cjs-biginteger,5.0.5,MAL-2026-2882
 cjs-biginteger,5.0.6,MAL-2026-2882
@@ -56643,6 +56653,7 @@ cladistics-tardigrade-blueshift-primatology,,MAL-2025-17088
 cladistics-virgo-transform-query,,MAL-2025-186157
 claimora,1.0.4,MAL-2026-5608
 claims-accounts-lib,35.6.6,MAL-2026-12604
+claims-acct-unlock,25.2.1,MAL-2026-18404
 claims-api-adapters,35.7.8,MAL-2026-12605
 claims-api-clients-shared,35.1.9,MAL-2026-12606
 claims-auth-api-adapters,35.3.3,MAL-2026-12607
@@ -66656,6 +66667,7 @@ dependencyconfusion9,1.0.0,MAL-2025-2371
 dependencyconfusioncve,,MAL-2022-2441
 dependencyconfusioncve2,,MAL-2022-2442
 dependencyfsdsfdsfg,99.9.0,MAL-2026-13754
+dependencykfeg,,MAL-2026-18416
 dependent-amethyst-reptile,,MAL-2025-67715
 dependent-black-booby,,MAL-2025-67716
 dependent-blue-sparrow,,MAL-2025-67717
@@ -73836,10 +73848,10 @@ dowload_ebok_1917_une_passion_russe_by_max_gallo_d2xeh,,MAL-2025-47476
 dowload_ebok_a_bela_e_a_fera_by_elizabeth_rudnick_evan_spiliotopoulos_stephen_ch_9ooey,,MAL-2025-3387
 dowload_ebok_a_guerra_de_hitler_e_o_horror_do_holocausto_by_scott_s_f_meaker_k644u,,MAL-2025-49334
 dowload_ebok_also_an_octopus_by_maggie_tokuda_hall_ah2ip,,MAL-2026-3794
-dowload_ebok_armageddon_by_max_hastings_kv3s4,,MAL-2026-18397
+dowload_ebok_armageddon_by_max_hastings_kv3s4,0.0.0-stage,MAL-2026-18397
 dowload_ebok_before_dawn_vampire_fallen_book_1_by_morgan_rice_fjwc4,,MAL-2025-49335
 dowload_ebok_como_leer_el_futbol_by_ruud_gullit_8qd97,,MAL-2026-3795
-dowload_ebok_el_piso_mil_el_piso_mil_1_by_katharine_mcgee_h1llc,,MAL-2026-18398
+dowload_ebok_el_piso_mil_el_piso_mil_1_by_katharine_mcgee_h1llc,0.0.0-stage,MAL-2026-18398
 dowload_ebok_englens_spil_by_carlos_ruiz_zafon_iben_hasselbalch_lqvq8,,MAL-2025-3388
 dowload_ebok_everything_in_between_a_rocker_romance_by_melissa_toppen_fp7ge,,MAL-2024-8711
 dowload_ebok_farouche_atalante_by_emilie_druilhe_nx2bj,,MAL-2024-8712
@@ -73853,14 +73865,14 @@ dowload_ebok_la_tigre_azzurra_by_nicolas_barreau_bkcek,,MAL-2025-47478
 dowload_ebok_leila_a_filha_de_charles_by_denise_correa_de_macedo_arnold_de_numiers_o103j,,MAL-2026-10121
 dowload_ebok_lenin_y_el_totalitarismo_by_mauricio_rojas_szvld,,MAL-2024-8714
 dowload_ebok_life_on_earth_by_mike_dooley_sncwl,,MAL-2025-49336
-dowload_ebok_lolita_by_vladimir_nabokov_oy1gy,,MAL-2026-18399
+dowload_ebok_lolita_by_vladimir_nabokov_oy1gy,0.0.0-stage,MAL-2026-18399
 dowload_ebok_los_enemigos_del_comercio_by_antonio_escohotado_6t2l4,,MAL-2026-3796
 dowload_ebok_maria_theresia_by_elisabeth_badinter_w1uoa,,MAL-2024-8715
 dowload_ebok_murder_in_plain_english_by_michael_arntfield_marcel_danesi_uleto,,MAL-2026-10122
-dowload_ebok_nur_mal_schnell_das_mammut_retten_by_knut_kruger_eva_schoffmann_davidov_ouz6t,,MAL-2026-18400
+dowload_ebok_nur_mal_schnell_das_mammut_retten_by_knut_kruger_eva_schoffmann_davidov_ouz6t,0.0.0-stage,MAL-2026-18400
 dowload_ebok_one_punch_man_vol_11_by_one_dk86i,,MAL-2025-47479
 dowload_ebok_programming_in_haskell_second_edition_by_graham_hutton_c19wm,,MAL-2026-10123
-dowload_ebok_reiki_sviluppa_e_usa_lenergia_reiki_by_matt_harvey_9q55p,,MAL-2026-18401
+dowload_ebok_reiki_sviluppa_e_usa_lenergia_reiki_by_matt_harvey_9q55p,0.0.0-stage,MAL-2026-18401
 dowload_ebok_river_of_time_by_naomi_judd_marcia_wilkie_i1ze3,,MAL-2026-10124
 dowload_ebok_see_how_they_lie_by_sue_wallman_7f3za,,MAL-2025-47480
 dowload_ebok_si_la_verdad_te_incomoda_no_leas_este_libro_by_armando_r_manjarres_0qwta,,MAL-2025-3392
@@ -100430,6 +100442,7 @@ grion-tyustu-nutr,,MAL-2025-155355
 grion-tyutu-nutr,,MAL-2025-155356
 griosn-tyustu-nutr,,MAL-2025-155357
 griossn-tyustu-nutr,,MAL-2025-155358
+grizzly-baileys,,MAL-2026-18408
 grizzly_sql_graph_visualization,0.2.3,MAL-2023-1192
 grmakers,,MAL-2025-21936
 grnhse,,MAL-2022-3464
@@ -136726,9 +136739,9 @@ m365-action-sdk,,MAL-2025-191500
 m3fdfocdoewn,1.0.0,MAL-2026-15606
 m3sp,,MAL-2025-25735
 m5d,,MAL-2022-4443
-m98bet,,MAL-2026-18389
-m98th,,MAL-2026-18390
-m98vip,,MAL-2026-18391
+m98bet,0.0.0-stage,MAL-2026-18389
+m98th,0.0.0-stage,MAL-2026-18390
+m98vip,0.0.0-stage,MAL-2026-18391
 m9tubq,,MAL-2025-25736
 ma-naik-gunung,,MAL-2025-158921
 ma-nut-beligoli,,MAL-2025-158922
@@ -153481,6 +153494,7 @@ neural-network-scan,1.0.1,MAL-2026-5794
 neural-network-scan,1.0.2,MAL-2026-5794
 neural-network-scan,1.0.8,MAL-2026-5794
 neural-network-scan,1.0.9,MAL-2026-5794
+neuralwhatsapp,,MAL-2026-18411
 neurodiff,,MAL-2025-27327
 neuroglancer-rspack-project-source,2.0.0,MAL-2025-4977
 neuroglancer-rspack-project-source,2.0.2,MAL-2025-4977
@@ -166548,6 +166562,7 @@ ouklida,,MAL-2025-28609
 ounziw,,MAL-2025-28610
 our-status,1.0.0,MAL-2024-2813
 ouramerica-constants,1.0.0,MAL-2024-1100
+ourin-baileys,,MAL-2026-18412
 ourtunes,,MAL-2025-28611
 outage-form,,MAL-2025-28612
 outdoor-amaranth-galliform,,MAL-2025-69763
@@ -204030,6 +204045,7 @@ sshvbox,,MAL-2025-33877
 sshwifty,6.0.2,MAL-2024-3048
 sshwifty-ui,6.0.2,MAL-2024-3049
 ssifchain-monorepo,,MAL-2022-6282
+ssite-mock-server,,MAL-2026-18417
 ssk,,MAL-2024-12043
 sslgem,,MAL-2025-33878
 sslinux,,MAL-2025-33879
@@ -208686,6 +208702,7 @@ taap-context,,MAL-2024-7990
 taap-package-rates,,MAL-2024-7991
 taapi-adapter,,MAL-2022-6405
 tabbables,45.0.0,MAL-2026-15524
+tabby-fknat,0.1.2,MAL-2026-18409
 tabcmd,,MAL-2025-34360
 tabisapo,,MAL-2025-34361
 tablator,,MAL-2025-34362
@@ -208816,6 +208833,7 @@ tailwind-animaflow-kit,2.0.6,MAL-2026-18077
 tailwind-animate-css-plugin,1.0.0,MAL-2026-14352
 tailwind-animate-css-plugin,2.0.1,MAL-2026-14352
 tailwind-animate-css-plugin,4.0.3,MAL-2026-14352
+tailwind-animate-kit,0.0.0-stage,MAL-2026-18078
 tailwind-animate-kit,2.0.6,MAL-2026-18078
 tailwind-animate-kit,2.0.7,MAL-2026-18078
 tailwind-animate-kit,2.0.8,MAL-2026-18078
@@ -208832,6 +208850,7 @@ tailwind-animation-founder,2.5.7,MAL-2026-12218
 tailwind-animationbased,,MAL-2025-192640
 tailwind-animationbasis,,MAL-2026-2156
 tailwind-animationgroup,2.3.7,MAL-2026-12219
+tailwind-animationlab,0.0.0-stage,MAL-2026-18080
 tailwind-animationlab,2.0.6,MAL-2026-18080
 tailwind-animationpack,2.3.7,MAL-2026-12220
 tailwind-animator,,MAL-2026-5516
@@ -208908,7 +208927,9 @@ tailwind-hide-scrollbar,2.1.5,MAL-2026-12116
 tailwind-hide-scrollbar,2.2.0,MAL-2026-12116
 tailwind-hide-scrollbar,2.2.1,MAL-2026-12116
 tailwind-inquirer,,MAL-2025-190631
+tailwind-keyframes,0.0.0-stage,MAL-2026-18083
 tailwind-keyframes,2.0.6,MAL-2026-18083
+tailwind-kinetic,0.0.0-stage,MAL-2026-18084
 tailwind-kinetic,2.0.6,MAL-2026-18084
 tailwind-kinetic,2.0.8,MAL-2026-18084
 tailwind-lines-clamp,,MAL-2026-2655
@@ -208988,6 +209009,7 @@ tailwindcss-anim,1.2.1,MAL-2026-11487
 tailwindcss-anim,1.2.2,MAL-2026-11487
 tailwindcss-anim,1.3.3,MAL-2026-11487
 tailwindcss-anim,1.3.5,MAL-2026-11487
+tailwindcss-animate-catalog,0.0.0-stage,MAL-2026-18085
 tailwindcss-animate-catalog,2.0.6,MAL-2026-18085
 tailwindcss-animate-catalog,2.0.7,MAL-2026-18085
 tailwindcss-animate-expand,1.0.0,MAL-2025-5090
@@ -209076,6 +209098,7 @@ tailwindcss-hide-scrollbar,2.5.3,MAL-2026-13424
 tailwindcss-hide-scrollbar,2.5.4,MAL-2026-13424
 tailwindcss-iota-materialize-spica,,MAL-2025-148444
 tailwindcss-janus-docusaurus-eslint,,MAL-2025-148445
+tailwindcss-keyframe-kit,0.0.0-stage,MAL-2026-18088
 tailwindcss-keyframe-kit,3.0.0,MAL-2026-18088
 tailwindcss-keyframe-kit,3.0.1,MAL-2026-18088
 tailwindcss-keyframe-kit,3.0.2,MAL-2026-18088
@@ -214303,6 +214326,7 @@ teenchat,,MAL-2025-34655
 teenie,,MAL-2025-34656
 teenwise,,MAL-2025-34657
 teeseest,1.6.2,MAL-2025-192878
+tefeest-npm-com-test,,MAL-2026-18418
 teh_madu,,MAL-2025-181575
 teh_manis,,MAL-2025-181576
 tehaah-codf-braew,,MAL-2025-168925
@@ -214818,6 +214842,7 @@ tensorflowjs,0.6.9,MAL-2025-6829
 tensorflowjs,0.7.0,MAL-2025-6829
 tensorlake,0.5.144,MAL-2026-17650
 tensorlake,0.5.159,MAL-2026-17650
+tensorlake,0.5.160,MAL-2026-17650
 tensorplow,,MAL-2025-34714
 tensorzero-node,1000.0.100,MAL-2026-2684
 tent-using-western,,MAL-2025-34715
@@ -231048,6 +231073,12 @@ varying_tortoise_z3n,,MAL-2025-137688
 varying_trout_z3n,,MAL-2025-97243
 varying_whippet_z3n,,MAL-2025-61571
 varying_wolf_z3n,,MAL-2025-61572
+vas-tops2-bidmatrix-ui,,MAL-2026-18419
+vas-tops2-core-client-cleanup-ui,,MAL-2026-18420
+vas-tops2-core-clients-search,,MAL-2026-18421
+vas-tops2-core-property-search,,MAL-2026-18422
+vas-tops2-digital-assistant-ui,,MAL-2026-18423
+vas-tops2-reportingui,,MAL-2026-18424
 vas_extension,1.0.1,MAL-2025-5064
 vas_extension,1.4.1,MAL-2025-5064
 vas_extension,1.4.2,MAL-2025-5064
