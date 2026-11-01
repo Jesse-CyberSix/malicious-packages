@@ -4841,6 +4841,10 @@ Package,Version,MalId
 @mailpoet/components,,MAL-2026-455
 @mailpoet/eslint-config,,MAL-2026-456
 @malwguy/ecto-corsair-whisper-3d2a7c,1.0.0,MAL-2026-5685
+@mamans2973/maman,1.0.0,MAL-2026-18431
+@mamans2973/maman,1.0.1,MAL-2026-18431
+@mamans2973/maman,1.0.2,MAL-2026-18431
+@mamans2973/maman,1.0.3,MAL-2026-18431
 @marketfront/actualordersnippetpopup,,MAL-2026-6763
 @marketfront/advertisingdevtool,7.0.0,MAL-2026-6764
 @marketfront/bannerpopup,7.0.0,MAL-2026-6765
@@ -47217,6 +47221,7 @@ dsh-redteam-mode,0.15.2,MAL-2026-18366
 dsh-vm-tester,0.1.2,MAL-2026-18345
 dsh-vm-tester,0.1.3,MAL-2026-18345
 dsh-vm-tester,0.1.4,MAL-2026-18345
+dsh-volcengine-provider,0.2.3,MAL-2026-18374
 dsh-volcengine-provider,0.2.5,MAL-2026-18374
 dsh-volcengine-provider,0.2.8,MAL-2026-18374
 dsh-waste-market,0.6.1,MAL-2026-15879
@@ -91819,6 +91824,7 @@ local-beige-dolphin,,MAL-2025-69198
 local-brown-jackal,,MAL-2025-69199
 local-callback-miranda-venus,,MAL-2025-144483
 local-child-process-supervisor-miranda,,MAL-2025-144484
+local-commander-agent,0.3.52,MAL-2026-18425
 local-config-parser,,MAL-2026-11167
 local-css-loader-ursa-venus,,MAL-2025-144485
 local-cz-conventional-changelog-cosmos-quark,,MAL-2025-187836
