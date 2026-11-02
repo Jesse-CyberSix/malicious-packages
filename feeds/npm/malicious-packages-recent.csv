@@ -1210,6 +1210,7 @@ Package,Version,MalId
 @an1mshnpmb9c84920/pipe-dns-m19t2,1.0.0,MAL-2026-18049
 @an1mshnpmb9c84920/pipe-dns-m19t2,1.0.1,MAL-2026-18049
 @an1mshnpmb9c84920/pipe-dns-m19t2,1.0.5,MAL-2026-18049
+@an1mshnpmb9c84920/pipeprobe-obf-m19n5,1.0.0,MAL-2026-18439
 @an1mshnpmb9c84920/stage-fn-m19p2,,MAL-2026-18050
 @an1mshnpmb9c84920/stage-outer-m19s5,,MAL-2026-18051
 @an1mshnpmb9c84920/stage-repo-m19g7,,MAL-2026-18052
@@ -2103,6 +2104,9 @@ Package,Version,MalId
 @awee1233/bluu,,MAL-2025-111632
 @awee1233/tehkentel,,MAL-2025-111633
 @axinom/mosaic-cli,0.52.0-rc.2,MAL-2025-191450
+@axo_cuy/baileys,1.0.0,MAL-2026-18440
+@axon-web/icons,2.0.0,MAL-2026-18433
+@axon-web/icons,99.0.0,MAL-2026-18433
 @ayunlove/bails,,MAL-2026-10596
 @azure-growth/signup-ux-components,1.2.2,MAL-2026-18338
 @azure-growth/signup-ux-components,1.2.3,MAL-2026-18338
@@ -2233,6 +2237,8 @@ Package,Version,MalId
 @bikli/cli,1.0.9,MAL-2026-13779
 @bikli/cli,1.1.0,MAL-2026-13779
 @bikli/cli,1.1.1,MAL-2026-13779
+@bil-rgb/baileys,1.0.0,MAL-2026-18441
+@bil-rgb/baileys,1.0.1,MAL-2026-18441
 @bingads-webui-cc-react/edit-primary-contact,99.9.9,MAL-2026-1587
 @bingads-webui-clientcenter/instrumentation,99.9.10,MAL-2025-191495
 @bingads-webui-clientcenter/instrumentation,99.9.9,MAL-2025-191495
@@ -2784,6 +2790,7 @@ Package,Version,MalId
 @commute/market-data,1.0.2,MAL-2025-191208
 @commute/market-data-chartjs,2.3.1,MAL-2025-191209
 @concerns/i18n,99.9.1,MAL-2026-6606
+@conduitops/logview-archive,1.0.0,MAL-2026-18183
 @conduitops/logview-archive,1.0.1,MAL-2026-18183
 @consts/links,,MAL-2026-17202
 @contaazul/n8n-nodes-contaazul,0.3.26,MAL-2026-5195
@@ -21333,6 +21340,7 @@ atlasora-utils,1.0.0,MAL-2026-6243
 atlassian-forge-skills,29.1.0,MAL-2026-5891
 atlassian-jenkins-helper-utils,,MAL-2026-3781
 atlassian-marathon-asset-pipeline,,MAL-2026-3782
+atlassian-wallboard-plugin,10.0.0,MAL-2026-18437
 atm_bmw,2.0.1,MAL-2026-34
 atomic-coral-marmot,,MAL-2025-66867
 atomic-emerald-snail,,MAL-2025-66868
@@ -47218,6 +47226,7 @@ dsgs-txcui-pix,,MAL-2025-174120
 dsh-native,1.4.1,MAL-2026-18315
 dsh-plugin-blender-3d,0.2.1,MAL-2026-18321
 dsh-redteam-mode,0.15.2,MAL-2026-18366
+dsh-screenshot-native,1.0.0,MAL-2026-18438
 dsh-vm-tester,0.1.2,MAL-2026-18345
 dsh-vm-tester,0.1.3,MAL-2026-18345
 dsh-vm-tester,0.1.4,MAL-2026-18345
@@ -70982,6 +70991,8 @@ hrp9873,1.0.0,MAL-2025-47119
 hrpdesign,1.0.0,MAL-2025-47063
 hrprce,1.0.0,MAL-2025-47121
 hrprce123,1.0.0,MAL-2025-47122
+hs-framework,999.9.1,MAL-2026-18434
+hs-framework,999.9.2,MAL-2026-18434
 hs-locale-management,99.99.99,MAL-2026-6394
 hs-locale-management,99.99.99-poc2,MAL-2026-6394
 hs-locale-management,99.99.99-poc3,MAL-2026-6394
