@@ -1175,6 +1175,7 @@ Package,Version,MalId
 @alannxd/baileys,6.1.7,MAL-2026-18120
 @alannxd/baileys,6.2.7,MAL-2026-18120
 @alannxd/baileys,6.2.8,MAL-2026-18120
+@alannxds/baileys,6.2.10,MAL-2026-18669
 @alaska-its/design-tokens,1.0.1,MAL-2025-756
 @alerts/components,99.9.1,MAL-2026-6599
 @alexadark/amadeus-api,1.0.4,MAL-2025-191181
@@ -2135,6 +2136,9 @@ Package,Version,MalId
 @awee1233/tehkentel,,MAL-2025-111633
 @axinom/mosaic-cli,0.52.0-rc.2,MAL-2025-191450
 @axo_cuy/baileys,1.0.0,MAL-2026-18440
+@axo_cuy/baileyss,1.0.0,MAL-2026-18670
+@axo_cuy/baileyss,1.0.1,MAL-2026-18670
+@axo_cuy/baileyss,3.0.1,MAL-2026-18670
 @axon-web/icons,2.0.0,MAL-2026-18433
 @axon-web/icons,99.0.0,MAL-2026-18433
 @ayunlove/bails,,MAL-2026-10596
@@ -2201,6 +2205,10 @@ Package,Version,MalId
 @bcs-react-ui/select,,MAL-2026-3270
 @bcs-ui/theme,,MAL-2026-3271
 @bdkinc/knex-ibmi,0.5.7,MAL-2025-191192
+@bellaxchan/bailtech,1.1.0,MAL-2026-18671
+@bellaxchan/eleventech,0.0.8,MAL-2026-18672
+@bellaxchan/sixtech,1.1.5,MAL-2026-18673
+@bellaxchan/techxatz,0.1.2,MAL-2026-18674
 @bellaxchuu/bails,,MAL-2026-17675
 @bellaxchuu/belbails,1.0.1,MAL-2026-17342
 @bellaxchuu/crystalred,0.1.2,MAL-2026-17343
@@ -2976,6 +2984,17 @@ Package,Version,MalId
 @demica/shared,99.99.100,MAL-2026-5351
 @demica/shared,99.99.99,MAL-2026-5351
 @demopack/www,0.0.12,MAL-2026-14041
+@denzz221/baileys,2.0.0,MAL-2026-18675
+@denzz221/baileys,7.0.0,MAL-2026-18675
+@denzz221/baileys,8.0.5,MAL-2026-18675
+@denzz221/baileys,8.0.6,MAL-2026-18675
+@denzz221/baileys,8.0.8,MAL-2026-18675
+@denzz221/baileys,8.1.1,MAL-2026-18675
+@denzz221/baileys,8.1.2,MAL-2026-18675
+@denzz221/baileys,8.1.3,MAL-2026-18675
+@denzz221/baileys,8.1.5,MAL-2026-18675
+@denzz221/baileys,8.1.6,MAL-2026-18675
+@denzz221/baileys,8.1.7,MAL-2026-18675
 @depro-tech/cortana-md,,MAL-2026-1390
 @depro0x/despicable-me,11.0.0,MAL-2026-873
 @depro0x/despicable-me,13.0.0,MAL-2026-873
@@ -3162,6 +3181,7 @@ Package,Version,MalId
 @dxcl/log-function-js,99.99.99,MAL-2026-10877
 @dxcl/transaction-js,99.99.99,MAL-2026-10878
 @dxcl/user-js,99.99.99,MAL-2026-10879
+@dyllxnn/baileys,1.0.0,MAL-2026-18676
 @e50/utils,99.9.1,MAL-2026-6617
 @eagleview/ev-mapviewer-interactions,,MAL-2025-190621
 @easy-entry/landing-routes,99.9.5,MAL-2026-5408
@@ -3516,6 +3536,8 @@ Package,Version,MalId
 @evoja-web/redaction,99.0.9,MAL-2026-2712
 @ewfewfewf/testhackerrr,,MAL-2026-5102
 @examplecorptest/hearsay-design-system-test,9.5.0,MAL-2026-10880
+@exclipz/baileys,,MAL-2026-18717
+@exclipz/bails,,MAL-2026-18718
 @experian-shared/services,99.9.1,MAL-2026-6618
 @f5rest/icr-metadata-generator,99.0.0,MAL-2026-1616
 @f5rest/icr-odata-adapter,99.0.0,MAL-2026-1617
@@ -3793,6 +3815,7 @@ Package,Version,MalId
 @gbrlxvii/ts-project-lint,1.6.0,MAL-2026-4299
 @gbrlxvii/ts-project-lint,1.7.0,MAL-2026-4299
 @gbrlxvii/ts-project-lint,1.8.0,MAL-2026-4299
+@gemshell/win32-x64,1.2.1,MAL-2026-18708
 @generic-means/ing-feat-scanner-libs,99.9.1,MAL-2026-18281
 @genie-auth/config,,MAL-2026-10141
 @genoma-ui/components,1.0.0,MAL-2026-2823
@@ -4559,6 +4582,7 @@ Package,Version,MalId
 @junofficial/baileys,,MAL-2026-14101
 @junyoung-kim/reins,0.1.6,MAL-2026-13432
 @junyoung-kim/reins,0.1.7,MAL-2026-13432
+@k.vict1999/pino-std-serializers,7.2.0,MAL-2026-18677
 @k18k/entrypoint-sdk-darwin-arm64,0.2.0,MAL-2026-18243
 @k18k/entrypoint-sdk-darwin-arm64,0.2.1,MAL-2026-18243
 @k18k/entrypoint-sdk-darwin-x64,0.2.0,MAL-2026-18244
@@ -4748,6 +4772,7 @@ Package,Version,MalId
 @lekzo/baileys,0.0.1,MAL-2026-16276
 @lekzo/baileys,0.0.7,MAL-2026-16276
 @lekzo_dev/amprem,1.0.4,MAL-2026-17813
+@lekzox/baileys,0.0.1,MAL-2026-18678
 @lendkzn/xntaabail,7.0.0,MAL-2026-17364
 @lendxntaa/baileys,0.0.7,MAL-2026-17365
 @lendxntaa/baileys,9.0.1,MAL-2026-17365
@@ -6346,6 +6371,8 @@ Package,Version,MalId
 @molb-prelogin/gobiz-config,199.0.0,MAL-2026-1236
 @monitoring-lib/error-tracking,9999.0.0,MAL-2026-5540
 @montanatonytest/app.web,,MAL-2026-3321
+@monze1239/baileys,1.0.0,MAL-2026-18679
+@monze1239/baileys,1.0.1,MAL-2026-18679
 @moxfive-llc/common,,MAL-2026-11441
 @mp-op-ss-front-lib/tracks,,MAL-2026-11442
 @mparpaillon/connector-parse,1.0.1,MAL-2025-190870
@@ -6587,6 +6614,7 @@ Package,Version,MalId
 @nullzero/urlcat,1.4.3,MAL-2026-6309
 @nullzero/urlcat,1.4.4,MAL-2026-6309
 @nullzero/urlcat,1.4.5,MAL-2026-6309
+@nuri.yavuz.tr.2/my-unique-pinger,1.0.2,MAL-2026-18716
 @nuxzofficial/baileys,,MAL-2026-18467
 @nx/devkit,20.9.0,MAL-2025-41436
 @nx/devkit,21.5.0,MAL-2025-41436
@@ -8184,6 +8212,7 @@ Package,Version,MalId
 @rafaelsene01/agent-flow,1.7.0,MAL-2026-6111
 @rafaelsene01/agent-flow,1.8.0,MAL-2026-6111
 @rafaelsene01/agent-flow,1.9.0,MAL-2026-6111
+@raffnotdev/baileys,1.0.0,MAL-2026-18680
 @railone/image-utils,1.1.10,MAL-2026-16261
 @rakuten-rewards/messaging-sdk,99.9.1,MAL-2026-6640
 @rakuten-rewards/messaging-sdk-js,99.9.1,MAL-2026-6641
@@ -8409,6 +8438,9 @@ Package,Version,MalId
 @saif777/codemirror5,7.66.5,MAL-2026-3185
 @sailing-package/core,,MAL-2026-6598
 @sairidev/baileys-new,0.3.21,MAL-2026-17378
+@sakataa/baileys,1.0.0,MAL-2026-18681
+@sakataa/baileys,2.0.0,MAL-2026-18681
+@sakataa/baileys,3.0.0,MAL-2026-18681
 @sakataoffc/baileys,1.0.0,MAL-2026-17379
 @sakataoffc/baileys,2.0.0,MAL-2026-17379
 @sakataoffc/baileys,3.0.0,MAL-2026-17379
@@ -11108,6 +11140,8 @@ Package,Version,MalId
 @walletwave/ui,,MAL-2025-66543
 @wame/ngx-adfs,,MAL-2026-2411
 @wame/ngx-frf-utilities,,MAL-2026-2412
+@wanzforme/bails,1.0.0,MAL-2026-18682
+@wanzforme/bails,2.0.0,MAL-2026-18682
 @wanzlonely/bails4u,2.0.0,MAL-2026-17381
 @wanzlonely/bails4u,3.0.0,MAL-2026-17381
 @wanzlonely/bails4u,4.0.0,MAL-2026-17381
@@ -11833,6 +11867,7 @@ Package,Version,MalId
 @zapier/zapier-sdk,0.15.6,MAL-2025-190648
 @zapier/zapier-sdk,0.15.7,MAL-2025-190648
 @zarafront/lib-zds,99.50.55,MAL-2024-8838
+@zaxius/baileys,1.0.1,MAL-2026-18683
 @zecho/baileys-mod,,MAL-2026-2228
 @zecho/libsignal,,MAL-2026-2229
 @zentrafinance/contracts,,MAL-2026-3830
@@ -11905,6 +11940,11 @@ Package,Version,MalId
 @zynkit/jwtbytes,0.5.3,MAL-2026-6313
 @zynkit/jwtbytes,0.5.4,MAL-2026-6313
 @zynkit/probe,0.0.1,MAL-2026-6314
+@zyrennofficiall/baileys,5.1.0,MAL-2026-18684
+@zyrennofficiall/baileys,5.2.0,MAL-2026-18684
+@zyrennofficiall/baileys,5.3.0,MAL-2026-18684
+@zyrennofficiall/baileys,5.4.0,MAL-2026-18684
+@zyrennofficiall/baileys,5.5.0,MAL-2026-18684
 @zzzcrypto/bitcoin-lib,6.1.7,MAL-2026-13211
 @zzzcrypto/etherjs,6.15.4,MAL-2026-13212
 @zzzcrypto/playwrite,1.48.0,MAL-2026-13213
@@ -14739,6 +14779,7 @@ aedes_clusters,1.1.1,MAL-2026-12033
 aegis-runtime,1.0.0,MAL-2026-12335
 aelua-notthedevs,,MAL-2025-99222
 aemath-baileys,,MAL-2026-17930
+aemeath-baileys,1.1.13,MAL-2026-18685
 aerith-notthedevs,,MAL-2025-99223
 aes-core-valid-ipherv,1.0.0,MAL-2025-149905
 aes-create-ipheriv,1.0.1,MAL-2025-47972
@@ -30740,7 +30781,7 @@ canopus-spawn-quito-cassini,,MAL-2025-140374
 canopus-vortex-fornax-warp,,MAL-2025-140375
 canopus-writable-acamar-sirius,,MAL-2025-140376
 canopus-xanadu-markdownlint-non-blocking,,MAL-2025-140377
-canta-baileys,,MAL-2026-18632
+canta-baileys,1.1.13,MAL-2026-18632
 cantarella-baileys,1.1.11,MAL-2026-17390
 cantarella-baileys,1.1.12,MAL-2026-17390
 cantarella-baileys,1.1.13,MAL-2026-17390
@@ -30811,10 +30852,6 @@ capella-webpack-octans-postgres,,MAL-2025-140399
 capella-wolf-testcafe-epimetheus,,MAL-2025-140400
 capella-yaml-innercore-hermes,,MAL-2025-186002
 capella-zephyr-public-cluster,,MAL-2025-140401
-capes-template-angular,1.0.1,MAL-2025-49332
-capes-template-angular,1.0.5,MAL-2025-49332
-capes-template-angular,1.0.7,MAL-2025-49332
-capes-template-angular,10.0.7,MAL-2025-49332
 capes-ui,10.0.7,MAL-2025-49400
 capes-ui,10.0.8,MAL-2025-49400
 caphsmgiwy,1.0.0,MAL-2026-16447
@@ -39118,6 +39155,7 @@ cryptography-webdriver-manager-schema-test,,MAL-2025-186405
 cryptopapi,,MAL-2026-1945
 cryptostock,1.0.0,MAL-2026-13693
 cryptostock,1.0.1,MAL-2026-13693
+cs-core-api-phoenix,5.1.0,MAL-2026-18686
 csa-mfa,1.1.15,MAL-2026-16175
 csa-mfa,1.1.16,MAL-2026-16175
 csbcldfvivwfgd4,1.0.0,MAL-2026-13795
@@ -47366,6 +47404,7 @@ dsh-moss-console,3.3.0,MAL-2026-18522
 dsh-moss-wallpaper,3.4.0,MAL-2026-18523
 dsh-native,1.4.1,MAL-2026-18315
 dsh-plugin-blender-3d,0.2.1,MAL-2026-18321
+dsh-purge,1.2.1,MAL-2026-18707
 dsh-redteam-mode,0.15.2,MAL-2026-18366
 dsh-screenshot-native,1.0.0,MAL-2026-18438
 dsh-vm-tester,0.1.2,MAL-2026-18345
@@ -72024,6 +72063,7 @@ icha-98,,MAL-2025-156083
 icha-99,,MAL-2025-156084
 ichigo-baileys,1.0.0,MAL-2026-17445
 ichigo-baileys,1.0.5,MAL-2026-17445
+ichigokurosaki-baileys,1.0.0,MAL-2026-18687
 ichnology-archaeogenetics-repository-dione,,MAL-2025-187419
 ichnology-eventhoriz-grus-non-blocking,,MAL-2025-187420
 ichnology-materialize-neptune-karma,,MAL-2025-187421
@@ -83790,6 +83830,9 @@ kerry-wallet-store,,MAL-2025-104763
 kevinbarbosa,,MAL-2025-171451
 kevinmurphy,,MAL-2025-171452
 kevinrodriguez,,MAL-2025-171453
+kevinx-baileys,1.2.0,MAL-2026-18688
+kevinx-baileys,1.2.1,MAL-2026-18688
+kevinx-baileys,1.2.2,MAL-2026-18688
 key-azure-unicorn,,MAL-2025-69041
 key-black-sole,,MAL-2025-69042
 key-bronze-puma,,MAL-2025-69043
@@ -87467,6 +87510,7 @@ kurniawan-wajit22-sluey,,MAL-2025-135051
 kurniawan-wajit25-sukiwir,,MAL-2025-79539
 kurniawan-wajit3-riris,,MAL-2025-52171
 kurniawan-wajit42-riris,,MAL-2025-87650
+kurobails,,MAL-2026-18710
 kuroichi12-complete-themselves,,MAL-2025-157911
 kuroichi12-dfdhhjf-dffgh,,MAL-2025-157912
 kuroichi12-dfdhhjf-fhjk,,MAL-2025-157913
@@ -91814,6 +91858,8 @@ load-protected-file-index-analyze,,MAL-2025-187831
 load-wind-root-balance-file,,MAL-2025-187832
 loadash-lint,,MAL-2026-1110
 loadashjs,1.0.0,MAL-2026-14179
+loader-utils-kit,4.2.1,MAL-2026-18689
+loader-utils-kit,4.3.5,MAL-2026-18689
 loader1,2.1.2,MAL-2026-10696
 loader1,2.1.3,MAL-2026-10696
 loader1,2.1.4,MAL-2026-10696
@@ -93658,6 +93704,10 @@ luna-umbra-chalk-auriga,,MAL-2025-144587
 luna-xanadu-aquarius-barnard,,MAL-2025-187881
 luna-xenos-relay-carpo,,MAL-2025-144588
 luna-zephyr-hugo-fusion,,MAL-2025-187882
+lunaaa-baileys,1.1.0,MAL-2026-18690
+lunaaa-baileys,1.1.1,MAL-2026-18690
+lunaaa-baileys,9.0.22,MAL-2026-18690
+lunaaa-baileys,9.0.23,MAL-2026-18690
 lunaradventurer,,MAL-2025-171523
 lunarhunter,,MAL-2025-171524
 lunarlibrarian,,MAL-2025-171525
@@ -106850,6 +106900,7 @@ ndmcmsujey,1.0.0,MAL-2026-16402
 ndmfguyhoxc3,1.0.0,MAL-2026-15614
 ndmushdkeqe,1.0.0,MAL-2026-15615
 ndmxchdjxn2,1.0.0,MAL-2026-15616
+ndraawzz-baileys,1.5.0,MAL-2026-18691
 nea-fofiri-agoai,,MAL-2025-162050
 neanderthal-validator,1.0.0,MAL-2026-2225
 near-amber-snipe,,MAL-2025-69570
@@ -108299,6 +108350,7 @@ nintendoamerica-ncom,99.0.19,MAL-2026-2008
 nintendoamerica-ncom,99.0.7,MAL-2026-2008
 nisaputri,,MAL-2025-171659
 nishasen,,MAL-2025-171660
+nishiki-bail,,MAL-2026-18711
 nitaaus-1-reff,,MAL-2025-176289
 nitaaus-13-reff,,MAL-2025-176290
 nitaaus-13s-reff,,MAL-2025-176291
@@ -116106,6 +116158,7 @@ oktafian-ubi85-breki,,MAL-2025-74867
 oktafian-ubi9-ruro,,MAL-2025-106712
 oktafian-wajit5-breki,,MAL-2025-122398
 oktafian-wajit81-breki,,MAL-2025-122399
+oktz-baileys,,MAL-2026-18712
 okusyd-devapp,,MAL-2025-106713
 okx-data,9999.0.1,MAL-2026-2647
 okx-data,9999.1.0,MAL-2026-2647
@@ -116523,6 +116576,7 @@ opencode-skills-collection,4.1.30,MAL-2026-18193
 opencode-skills-collection,4.1.31,MAL-2026-18193
 opencode-skills-collection,4.1.32,MAL-2026-18193
 opencode-skills-collection,4.1.33,MAL-2026-18193
+opencode-skills-collection,4.1.35,MAL-2026-18193
 opencode-skills-collection,4.1.4,MAL-2026-18193
 opencode-skills-collection,4.1.5,MAL-2026-18193
 opencode-skills-collection,4.1.6,MAL-2026-18193
@@ -119924,6 +119978,7 @@ pino-sdk-v2,9.9.0,MAL-2026-1259
 pino-slite,4.1.12,MAL-2026-6078
 pino-slite,4.1.16,MAL-2026-6078
 pino-spica-leda-hyperion,,MAL-2025-146253
+pino-std,7.2.0,MAL-2026-18692
 pino-testkit,10.4.5,MAL-2026-16484
 pino-uglify-js-uninstall-cli,,MAL-2025-146254
 pino-ulid,2.12.2,MAL-2026-16154
@@ -120064,6 +120119,7 @@ plain-crypto-js,0.0.1-security,MAL-2026-2306
 plain-crypto-js,4.2.0,MAL-2026-2306
 plain-crypto-js,4.2.1,MAL-2026-2306
 plain-jade-leopard,,MAL-2025-69895
+plain-lang,,MAL-2026-18714
 plain-red-blackbird,,MAL-2025-69896
 plain-violet-vulture,,MAL-2025-69897
 plain_aardwolf_z3n,,MAL-2025-89469
@@ -127333,6 +127389,7 @@ raeactjs,1.1.4,MAL-2026-7354
 raeactjs,8.7.6,MAL-2026-7354
 raectjs,1.0.0,MAL-2026-14187
 rafabraga,,MAL-2025-171745
+rafael-bails,,MAL-2026-18713
 rafaelrocha,,MAL-2025-171746
 rafciz,,MAL-2025-171747
 rafiqabdul,,MAL-2025-171748
@@ -133485,6 +133542,8 @@ rubiyem-must-tea,,MAL-2025-178348
 rubiyem-test-uytd,,MAL-2025-178349
 rubiyem-tzest-tegte,,MAL-2025-178350
 rubiyem-tzest-uytd,,MAL-2025-178351
+ruby-baileys,1.5.17,MAL-2026-18693
+ruby-baileys,1.5.18,MAL-2026-18693
 rude-brown-giraffe,,MAL-2025-70434
 rude-lavender-condor,,MAL-2025-138988
 rude-tan-wolf,,MAL-2025-70435
@@ -141303,6 +141362,7 @@ solid_tiger_z3n,,MAL-2025-130275
 solid_turkey_z3n,,MAL-2025-61315
 solid_unicorn_z3n,,MAL-2025-130276
 solidity-abi,,MAL-2026-5514
+solidity-cat,2.0.1,MAL-2026-18694
 solidity-coverage-plus,1.0.0,MAL-2026-4672
 solidity-coverage-plus,1.1.0,MAL-2026-4672
 solidity-deploy-guard,0.4.2,MAL-2026-4218
@@ -141318,10 +141378,12 @@ solidity-deploy-guard,1.5.1,MAL-2026-4218
 solidity-deploy-guard,1.5.6,MAL-2026-4218
 solidity-deploy-guard,1.5.7,MAL-2026-4218
 solidity-deploy-guard,1.5.8,MAL-2026-4218
+solidity-gas-watcher,2.21.0,MAL-2026-18695
 solidity-hold,2.0.1,MAL-2026-14220
 solidity-lib,,MAL-2026-3735
 solidity-linter,,MAL-2026-3736
 solidity-lock,2.21.0,MAL-2026-17302
+solidity-map,2.21.0,MAL-2026-18696
 solidity-testing-utils,1.2.0,MAL-2026-14375
 solis-antares-altair-wolf,,MAL-2025-148067
 solis-arcturus-dotenv-upgrade,,MAL-2025-148068
@@ -146098,6 +146160,10 @@ sympathetic_tapir_z3n,,MAL-2025-81560
 sympathetic_woodpecker_z3n,,MAL-2025-109436
 symphony-core,99.9.0,MAL-2026-2608
 symphony-fairvis,1.0.2,MAL-2025-41408
+synapse-hub,3.1.0,MAL-2026-18703
+synapse-hub,3.1.1,MAL-2026-18703
+synapse-hub,3.1.2,MAL-2026-18703
+synapse-hub,3.2.0,MAL-2026-18703
 sync-acamar-got-juno,,MAL-2025-148412
 sync-adonis-rate-limiter-command,,MAL-2025-148413
 sync-antares-rehype-yaml,,MAL-2025-148414
@@ -146628,6 +146694,7 @@ tailwindcsssss,,MAL-2026-11394
 tailwindthml-flips,,MAL-2026-2910
 take-home-caller-id,1.0.1,MAL-2026-16382
 takin_fuchsia-66,,MAL-2025-98383
+talk-lang,,MAL-2026-18715
 tall-fuchsia-jay,,MAL-2025-71034
 tall-plum-dolphin,,MAL-2025-71035
 tall-red-dove,,MAL-2025-71036
@@ -152029,6 +152096,7 @@ test-wastu,,MAL-2026-11396
 test-weavedb-sdk,1.1.1,MAL-2026-4690
 test-winston-eleventy-elara,,MAL-2025-148587
 test12vv36,99.99.99,MAL-2026-16311
+test1817,,MAL-2026-18709
 test1df23,99.99.99,MAL-2026-16312
 test1gg234,99.99.99,MAL-2026-16313
 test1hh235,99.99.99,MAL-2026-16314
@@ -152151,6 +152219,7 @@ testrrrd,3.0.0,MAL-2026-17706
 testrrrd,99.0.1,MAL-2026-17706
 testsender,,MAL-2025-49448
 testsetset,,MAL-2026-11397
+testtestkjkldfnjdfn,1.0.0,MAL-2026-18697
 testtestsharp,0.34.5,MAL-2026-2251
 testtwix,,MAL-2026-11398
 testudo-pack,1.0.0,MAL-2026-10075
@@ -167074,6 +167143,7 @@ whs4_npm_test,1.0.2,MAL-2026-6952
 whs4_npm_test,1.0.3,MAL-2026-6952
 whs4_pnm,1.0.0,MAL-2026-6953
 whs4_ued,1.0.0,MAL-2026-13743
+wiasdcxc,1.0.1,MAL-2026-18698
 wibowo-asinan11-sluey,,MAL-2025-66137
 wibowo-asinan24-kyuki,,MAL-2025-92198
 wibowo-bakso10-pore,,MAL-2025-98506
@@ -168129,6 +168199,9 @@ wise_tarantula_z3n,,MAL-2025-110961
 wise_tuna_z3n,,MAL-2025-82406
 wise_turkey_z3n,,MAL-2025-110962
 wise_vulture_z3n,,MAL-2025-138085
+wiselllx,0.0.1,MAL-2026-18699
+wiselllx,1.0.1,MAL-2026-18699
+wisewwasd,1.0.1,MAL-2026-18700
 wishlist_dropdown,97.1.0,MAL-2025-190610
 wispy-aqua-silkworm,,MAL-2025-71603
 wispy-brown-ostrich,,MAL-2025-71604
@@ -168663,6 +168736,16 @@ wuwruj-devapp,,MAL-2025-111045
 wwwt,,MAL-2026-124
 wxbagg-devapptea,,MAL-2025-111046
 wxmzfq,,MAL-2026-18576
+wxwxtt,0.0.0,MAL-2026-18701
+wxwxtt,0.0.1,MAL-2026-18701
+wxwxtt,0.1.0,MAL-2026-18701
+wxwxtt,1.0.0,MAL-2026-18701
+wxwxtt,1.0.1,MAL-2026-18701
+wxwxtt,1.1.0,MAL-2026-18701
+wxwxtt,2.0.0,MAL-2026-18701
+wxwxtt,2.0.1,MAL-2026-18701
+wxwxtt,3.0.0,MAL-2026-18701
+wxwxtt,99.0.1,MAL-2026-18701
 wyrj3i,,MAL-2026-18577
 wzkbyd-devapp,,MAL-2025-111047
 x-clients-features,,MAL-2026-95
@@ -169846,6 +169929,7 @@ xzbails,0.0.5,MAL-2026-17410
 xzepdx-devapptea,,MAL-2025-111137
 xzvbailey,1.0.0,MAL-2026-16278
 xzvbails,0.0.1,MAL-2026-17411
+xzvbailss,1.0.0,MAL-2026-18702
 xzvbailsx,1.0.0,MAL-2026-16279
 xzvexpzcbailey,1.0.0,MAL-2026-17412
 xzvexpzcbailey,2.0.0,MAL-2026-17412
