@@ -3392,6 +3392,8 @@ Package,Version,MalId
 @cheqplease/structured-logger,2.2.5,MAL-2025-192434
 @cheqplease/structured-logger,9.1.15,MAL-2025-192434
 @cheqplease/structured-logger,9.3.2,MAL-2025-192434
+@cherrydotfun/miniapp-sdk,0.1.22,MAL-2026-18737
+@cherrydotfun/miniapp-sdk,0.1.23,MAL-2026-18737
 @chewyy/ccl-utils-belt,999999.0.0,MAL-2024-7070
 @chia-networrk/api,1.0.10,MAL-2024-11240
 @chia-networrk/api,1.0.14,MAL-2024-11240
@@ -8790,6 +8792,7 @@ Package,Version,MalId
 @kone-ds/webcomponents-react,1.99.99,MAL-2025-1692
 @kong/spec-renderer,1.101.10-pr.747.ed2920a.0,MAL-2025-191455
 @koop-components/common,,MAL-2022-385
+@kora20030101/test-pkg-delete-me,,MAL-2026-18719
 @kp-admin/history,20.0.0,MAL-2024-9036
 @kp-admin/history,20.0.1,MAL-2024-9036
 @kp-admin/history,20.0.2,MAL-2024-9036
@@ -11925,6 +11928,8 @@ Package,Version,MalId
 @neednova/credit-passport-supply,172.0.0,MAL-2025-9112
 @neednova/enterprise-eng,172.0.0,MAL-2025-9113
 @neednova/metapod,172.0.0,MAL-2025-9114
+@needsaudit/n,,MAL-2026-18720
+@needsaudit/nexport,,MAL-2026-18721
 @neo-ds/components,3.3.7,MAL-2024-11251
 @neo-ds/neo-utils,3.3.7,MAL-2024-11755
 @neogov/linkanx,1.0.0,MAL-2024-60
@@ -12046,6 +12051,7 @@ Package,Version,MalId
 @node-cloud/create,1.0.6,MAL-2026-6741
 @node-console-log/log,,MAL-2026-11216
 @node32/fetlife-assets,,MAL-2022-476
+@noinheritdoc/n,,MAL-2026-18722
 @nokia-csf-uxr/csfwidgets,,MAL-2023-46
 @nokia-smp/smp-client-library-18.9,1.0.0,MAL-2024-3026
 @nolimit-agent/linux-x64,1.0.125,MAL-2026-13996
@@ -16151,6 +16157,7 @@ Package,Version,MalId
 @shwfed/nuxt,0.12.0,MAL-2026-4444
 @shwfed/nuxt,0.13.0,MAL-2026-4444
 @shwfed/nuxt,0.13.1,MAL-2026-4444
+@sideeffects/n,,MAL-2026-18723
 @sidp-kiosk/test-npm-snurkeburk-hackerone,1.999.0,MAL-2026-14161
 @sidp-kiosk/test-npm-snurkeburk-hackerone,2.999.0,MAL-2026-14161
 @sie-ppr-web-checkout/app,3.999.0,MAL-2026-2865
@@ -16181,6 +16188,7 @@ Package,Version,MalId
 @siriusbeyond/auth,99.0.0,MAL-2026-16320
 @siriusbeyond/ui,99.0.0,MAL-2026-16321
 @siriusbeyond/utils,99.0.0,MAL-2026-16322
+@site-cms/ssr,,MAL-2026-18724
 @siwatfa/yorn,0.0.1,MAL-2026-14102
 @siwatfa/yorn,0.0.10,MAL-2026-14102
 @siwatfa/yorn,0.0.11,MAL-2026-14102
@@ -18225,6 +18233,7 @@ Package,Version,MalId
 @ts-apis/ts-utils,1.0.8,MAL-2026-6275
 @ts-apis/ts-utils,1.0.9,MAL-2026-6275
 @ts-apis/ts-utils,1.1.0,MAL-2026-6275
+@ts-expect-error/n,,MAL-2026-18725
 @ts-internal/shared-lib,9.9.9,MAL-2026-5863
 @tse-digital/core,,MAL-2026-5157
 @tsers/core,,MAL-2022-671
@@ -36044,6 +36053,7 @@ arbutus-docs,,MAL-2025-43487
 arc-branch-to-cmsg,,MAL-2025-14768
 arc-canonical,,MAL-2022-1080
 arc-cli-fc,1.0.1,MAL-2025-191064
+arc-contracts,,MAL-2026-18726
 arc-diag-util,1.0.1,MAL-2026-4481
 arc-macro-s3-bucket,,MAL-2025-14769
 arc-offsec-custom-library,1.0.3,MAL-2025-4461
@@ -39080,6 +39090,7 @@ automation_model,1.0.781-stage,MAL-2025-191066
 automation_model,1.0.895-dev,MAL-2025-191066
 automerge-action,2.0.4,MAL-2025-163
 automerge-action,9.9.9,MAL-2025-163
+automic-style-engine,,MAL-2026-18736
 autonomous-coffee-termite,,MAL-2025-66883
 autonomous-copper-catfish,,MAL-2025-66884
 autonomous-header-package-test,,MAL-2025-49397
@@ -84539,6 +84550,7 @@ evmlogger,1.0.5,MAL-2025-6017
 evmlogger,1.0.6,MAL-2025-6017
 evmlogger,1.0.7,MAL-2025-6017
 evmlogger,1.0.8,MAL-2025-6017
+evmos-contracts,,MAL-2026-18727
 evo-web,100.0.2,MAL-2025-3949
 evo-web,100.0.5,MAL-2025-3949
 evo-web,100.0.9,MAL-2025-3949
@@ -122682,6 +122694,7 @@ kamonetuq,,MAL-2025-24285
 kamonetuv,,MAL-2025-24286
 kamonetuzx,,MAL-2025-24287
 kampas-kopling,,MAL-2025-171440
+kampodine,0.8.0,MAL-2026-18738
 kanaquiz,,MAL-2025-24288
 kanban-webcomponent,,MAL-2026-417
 kanborasd,,MAL-2025-69031
@@ -123489,6 +123502,7 @@ kbwood-jquery-svg,,MAL-2023-552
 kbxozjiervwstgyp,,MAL-2022-4129
 kbxwekjsztqgiycl,,MAL-2022-4130
 kc-fe-cli,,MAL-2026-290
+kc-kline-chart,,MAL-2026-18728
 kc-next,2.3.2,MAL-2025-190574
 kccenter,,MAL-2025-24363
 kcex-dev,,MAL-2025-1420
@@ -146103,6 +146117,7 @@ model-viewer-render-fidelity-tools,99.99.99,MAL-2025-1150
 model-viewer-space-opera,1.1.0,MAL-2025-853
 modeldb-vis,1.0.0,MAL-2025-3139
 models-frontend,,MAL-2025-26591
+modelsdesk,0.4.2,MAL-2026-18739
 moderate-apricot-lark,,MAL-2025-69453
 moderate-aqua-marlin,,MAL-2025-69454
 moderate-azure-frog,,MAL-2025-69455
@@ -147101,6 +147116,7 @@ mono-faucet,1.0.0,MAL-2024-12085
 mono-package,,MAL-2025-26654
 monobing,,MAL-2025-49367
 monoblast,,MAL-2025-49325
+monobomber,,MAL-2026-18732
 monocam,,MAL-2025-26655
 monogrok,1.0.1,MAL-2026-10638
 monogrok,1.0.11,MAL-2026-10638
@@ -147122,6 +147138,7 @@ monogrok,1.0.7,MAL-2026-10638
 monogrok,1.0.8,MAL-2026-10638
 monophonic,,MAL-2025-49326
 monoping,,MAL-2026-1299
+monopw,,MAL-2026-18733
 monorepo-cop,9.9.0,MAL-2026-1523
 monorepo-lens,99.99.99,MAL-2025-5240
 monorepo-next,13.0.1,MAL-2025-47328
@@ -165661,6 +165678,7 @@ opencode-skills-collection,4.1.31,MAL-2026-18193
 opencode-skills-collection,4.1.32,MAL-2026-18193
 opencode-skills-collection,4.1.33,MAL-2026-18193
 opencode-skills-collection,4.1.35,MAL-2026-18193
+opencode-skills-collection,4.1.36,MAL-2026-18193
 opencode-skills-collection,4.1.4,MAL-2026-18193
 opencode-skills-collection,4.1.5,MAL-2026-18193
 opencode-skills-collection,4.1.6,MAL-2026-18193
@@ -195840,6 +195858,7 @@ secured-ssh,,MAL-2025-47085
 securedrop,58.2.4,MAL-2024-9832
 securedrop,59.2.4,MAL-2024-9832
 securedrop,9.9.9,MAL-2024-9832
+securedrop-app,,MAL-2026-18729
 securefiles-common,1.0.1,MAL-2026-2387
 securefiles-common,1.0.3,MAL-2026-2387
 secureshield1,1.0.0,MAL-2025-2413
@@ -209204,6 +209223,7 @@ tailwind-animates,1.0.1,MAL-2026-6727
 tailwind-animation-founder,2.5.7,MAL-2026-12218
 tailwind-animationbased,,MAL-2025-192640
 tailwind-animationbasis,,MAL-2026-2156
+tailwind-animationfound,,MAL-2026-18740
 tailwind-animationgroup,2.3.7,MAL-2026-12219
 tailwind-animationlab,0.0.0-stage,MAL-2026-18080
 tailwind-animationlab,2.0.6,MAL-2026-18080
@@ -224125,6 +224145,7 @@ tw-core-ui,1.0.0,MAL-2025-5836
 tw-core-ui,1.0.1,MAL-2025-5836
 tw-fluid-type,1.0.1,MAL-2026-5638
 tw-modern-ui,,MAL-2026-1293
+tw-motion-css,,MAL-2026-18734
 tw-pkgprobe-7731,1.0.0,MAL-2026-14062
 tw-pkgprobe-7731,1.0.1,MAL-2026-14062
 tw-pkgprobe-7731,1.0.3,MAL-2026-14062
@@ -241090,6 +241111,7 @@ wiredev,,MAL-2025-39335
 wireit-website,,MAL-2022-7154
 wirelust,,MAL-2025-39336
 wirly,,MAL-2025-39337
+wisdomtreetest,,MAL-2026-18730
 wise-aquamarine-deer,,MAL-2025-71601
 wise-plugins,,MAL-2025-4521
 wise-purple-wombat,,MAL-2025-71602
@@ -250324,6 +250346,7 @@ zero-slot-utility,1.0.1,MAL-2025-48018
 zero-static-scale-minify-encode,,MAL-2025-46879
 zero-timeout-message,0.0.1,MAL-2025-2437
 zero-warn-char-class-visualize,,MAL-2025-190476
+zero2-baileys,,MAL-2026-18731
 zeroclickinfo-goodies,,MAL-2022-7385
 zeromqold,1.0.0,MAL-2023-1350
 zeroth-amethyst-halibut,,MAL-2025-71768
