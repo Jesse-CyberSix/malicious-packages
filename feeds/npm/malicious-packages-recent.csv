@@ -47420,6 +47420,9 @@ dsgs-txcui-pix,,MAL-2025-174120
 dsh-moss-console,3.3.0,MAL-2026-18522
 dsh-moss-wallpaper,3.4.0,MAL-2026-18523
 dsh-native,1.4.1,MAL-2026-18315
+dsh-notify-focus,0.5.0,MAL-2026-18748
+dsh-notify-focus,0.7.0,MAL-2026-18748
+dsh-notify-focus,0.7.1,MAL-2026-18748
 dsh-plugin-blender-3d,0.2.1,MAL-2026-18321
 dsh-purge,1.2.1,MAL-2026-18707
 dsh-redteam-mode,0.15.2,MAL-2026-18366
@@ -57496,7 +57499,6 @@ fatira-godotda-tayah,,MAL-2025-155029
 fatira-gootda-ayah,,MAL-2025-155030
 faulkner-teadev,,MAL-2025-102605
 faust-cont,1.0.0,MAL-2026-11042
-faustjs-org-sitemm2,1.0.0,MAL-2025-48604
 fauzankusuma,,MAL-2025-171207
 fauzannugraha,,MAL-2025-171208
 fauzi-1,,MAL-2025-155031
@@ -119008,7 +119010,6 @@ paysafe-vault,1.0.0,MAL-2026-10173
 paysafe-venmo,99.0.0,MAL-2026-2554
 paysafe-venmo,99.99.2,MAL-2026-2554
 paysera-checkout-modal,99.9.9,MAL-2025-192368
-paysera-loading-spinner,,MAL-2025-48751
 paytmsiddlewaree,2.3.7,MAL-2026-238
 payu-node,,MAL-2026-11346
 pc-analytics-promotion-creation-core,1.0.0,MAL-2025-47857

@@ -74832,6 +74832,9 @@ dsgs-txcui-pix,,MAL-2025-174120
 dsh-moss-console,3.3.0,MAL-2026-18522
 dsh-moss-wallpaper,3.4.0,MAL-2026-18523
 dsh-native,1.4.1,MAL-2026-18315
+dsh-notify-focus,0.5.0,MAL-2026-18748
+dsh-notify-focus,0.7.0,MAL-2026-18748
+dsh-notify-focus,0.7.1,MAL-2026-18748
 dsh-plugin-blender-3d,0.2.1,MAL-2026-18321
 dsh-purge,1.2.1,MAL-2026-18707
 dsh-redteam-mode,0.15.2,MAL-2026-18366
