@@ -6443,6 +6443,7 @@ Package,Version,MalId
 @ethers-js/contracts,6.9.0,MAL-2026-13937
 @ethers-sdk/ethers,,MAL-2026-11210
 @ethers-sdk/wallet,5.8.0,MAL-2026-11211
+@ethersphere/bee-js,13.3.0,MAL-2026-18773
 @ethlete/cdk,4.71.2,MAL-2026-5196
 @ethlete/cli,2.0.1,MAL-2026-5197
 @ethlete/components,3.3.1,MAL-2026-5198
@@ -7749,6 +7750,7 @@ Package,Version,MalId
 @hrmony/valuenet,1.99.0,MAL-2026-17281
 @hrsites/fb-with-city-suggests,,MAL-2022-338
 @hsbc-mfe/host,99.99.3,MAL-2026-2332
+@htooayelwinict/travis234,3.3.2,MAL-2026-18757
 @httpactions/encode-url,1.0.0,MAL-2026-6139
 @httpactions/encode-url,1.0.1,MAL-2026-6139
 @httpactions/strict-uri-encode,1.0.1,MAL-2026-6140
@@ -122320,6 +122322,9 @@ kaddex-ui,2.0.0,MAL-2025-2768
 kadenaswap-ui,,MAL-2022-4093
 kadummy,,MAL-2025-24156
 kaerwzyhlkngvxic,,MAL-2025-24157
+kafbail,2.0.12,MAL-2026-18774
+kafbail,2.0.13,MAL-2026-18774
+kafbail,2.0.14,MAL-2026-18774
 kafka-client-ruby,,MAL-2025-24158
 kafka-shopify,,MAL-2025-24159
 kagi_browser_ext,2.0.0,MAL-2025-2682
@@ -196644,6 +196649,7 @@ sentrybrowser5,,MAL-2023-8213
 sentrybrowser7,,MAL-2023-1038
 sentrykit,30.0.0,MAL-2026-15544
 seo-pwa,,MAL-2022-6014
+seolibs-package,,MAL-2026-18775
 seonatmunsetmaouseomauntsmeoatnumeontkmnteumntemoiaoisntmoeunitmoeantum,,MAL-2025-32955
 seotools,,MAL-2025-32956
 separadordeinfo,1.0.0,MAL-2026-2800
