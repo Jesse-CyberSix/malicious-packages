@@ -870,8 +870,15 @@ Package,Version,MalId
 @1nderman/betterconsole,1.0.0,MAL-2025-47606
 @2011-08-19/n,99.9.10,MAL-2026-7033
 @2011-08-19/n,99.9.9,MAL-2026-7033
+@2oolkit/hyperliquid-cli,0.1.0,MAL-2026-3679
+@2oolkit/hyperliquid-cli,0.2.0,MAL-2026-3679
 @2oolkit/hyperliquid-cli,0.2.1,MAL-2026-3679
 @2oolkit/hyperliquid-cli,0.2.2,MAL-2026-3679
+@2oolkit/hyperliquid-cli,0.2.3,MAL-2026-3679
+@2oolkit/hyperliquid-cli,0.2.4,MAL-2026-3679
+@2oolkit/hyperliquid-cli,0.2.5,MAL-2026-3679
+@2oolkit/hyperliquid-cli,0.2.6,MAL-2026-3679
+@2oolkit/hyperliquid-cli,0.2.7,MAL-2026-3679
 @3kali182/angular-1.6,9.1.1,MAL-2025-5834
 @3kali182/selenium-webdriver4,,MAL-2025-5984
 @3p-future-solutions/ember-cui,,MAL-2022-51
@@ -6613,6 +6620,7 @@ Package,Version,MalId
 @fadelsm/baileys,7.0.7,MAL-2026-18830
 @fadelsm/baileys,7.0.8,MAL-2026-18830
 @fadelsm/baileys,7.0.9,MAL-2026-18830
+@fadelsm/libsignal-node,,MAL-2026-19105
 @fadzzzslebew/baileys,0.1.1,MAL-2026-18831
 @fahmisugeng13/tea_fahmisugeng13,,MAL-2025-170606
 @fairwords/encryption,0.0.5,MAL-2026-2506
@@ -9376,6 +9384,8 @@ Package,Version,MalId
 @lekzo/baileys,0.0.7,MAL-2026-16276
 @lekzo_dev/amprem,1.0.4,MAL-2026-17813
 @lekzox/baileys,0.0.1,MAL-2026-18678
+@lemili9804/mcp-weather-server,1.0.3,MAL-2026-19085
+@lemili9804/mcp-weather-server,1.0.6,MAL-2026-19085
 @lendkzn/xntaabail,7.0.0,MAL-2026-17364
 @lendxntaa/baileys,0.0.7,MAL-2026-17365
 @lendxntaa/baileys,9.0.1,MAL-2026-17365
@@ -14651,6 +14661,7 @@ Package,Version,MalId
 @rc-mfe/cdn19-test,1.993.0,MAL-2024-1968
 @rce-web/ui-upgrade-dialog,1.5.0,MAL-2025-55023
 @rce-web/webpack-resource-plugin,1.5.0,MAL-2025-61718
+@rclaude/win32-x64,0.2.1,MAL-2026-19095
 @rdxportal/ui-components,,MAL-2026-796
 @react-case/option,1.0.0,MAL-2026-10626
 @react-native-aria/button,0.2.11,MAL-2025-4777
@@ -16724,6 +16735,28 @@ Package,Version,MalId
 @sok-brand-sites/common-frontend-components,6.648.2,MAL-2023-56
 @sok-brand-sites/common-frontend-components,7.649.2,MAL-2023-56
 @sok-brand-sites/common-frontend-components,8.650.2,MAL-2023-56
+@solana-common/utils,1.0.0,MAL-2026-19079
+@solana-common/utils,1.1.0,MAL-2026-19079
+@solana-common/utils,1.1.1,MAL-2026-19079
+@solana-common/utils,1.1.2,MAL-2026-19079
+@solana-common/utils,1.1.3,MAL-2026-19079
+@solana-common/utils,1.2.2,MAL-2026-19079
+@solana-common/utils,1.2.3,MAL-2026-19079
+@solana-common/utils,1.3.0,MAL-2026-19079
+@solana-common/utils,1.3.1,MAL-2026-19079
+@solana-common/utils,2.0.0,MAL-2026-19079
+@solana-common/utils,2.0.1,MAL-2026-19079
+@solana-common/utils,2.0.10,MAL-2026-19079
+@solana-common/utils,2.0.11,MAL-2026-19079
+@solana-common/utils,2.0.12,MAL-2026-19079
+@solana-common/utils,2.0.2,MAL-2026-19079
+@solana-common/utils,2.0.3,MAL-2026-19079
+@solana-common/utils,2.0.4,MAL-2026-19079
+@solana-common/utils,2.0.5,MAL-2026-19079
+@solana-common/utils,2.0.6,MAL-2026-19079
+@solana-common/utils,2.0.7,MAL-2026-19079
+@solana-common/utils,2.0.8,MAL-2026-19079
+@solana-common/utils,2.0.9,MAL-2026-19079
 @solana-ipfs/sdk,,MAL-2026-2218
 @solana-js/web3,1.91.3,MAL-2026-13941
 @solana-labs/ancor,1.0.0,MAL-2026-5786
@@ -19100,6 +19133,7 @@ Package,Version,MalId
 @unilin/dlw.scbase.staticsite,9999.10.10,MAL-2023-8731
 @unilin/dlw.scbase.staticsite,9999.10.11,MAL-2023-8731
 @unilin/dlw.scbase.staticsite,9999.10.9,MAL-2023-8731
+@unipswap/postcss-animate-units,,MAL-2026-19075
 @uniqa-extern/capacitor-plugin-kofax,77.77.77,MAL-2025-2830
 @uniqa-extern/capacitor-plugin-unblu,77.77.77,MAL-2025-2831
 @uniqa/claims-ms-api,77.77.77,MAL-2025-2811
@@ -19867,6 +19901,7 @@ Package,Version,MalId
 @web2apk/baileys,7.7.7,MAL-2026-16043
 @web2apk/baileys,9.0.9,MAL-2026-16043
 @web2apk/baileys,9.9.9,MAL-2026-16043
+@web3-common/utils,1.0.0,MAL-2026-19076
 @web3-helpers/core,1.0.0,MAL-2026-10611
 @web3-helpers/core,1.0.1,MAL-2026-10611
 @web3-helpers/core,1.0.2,MAL-2026-10611
@@ -20756,6 +20791,8 @@ Package,Version,MalId
 @youse-seguradora/youse-frontend,1.999.1,MAL-2024-7086
 @youse-seguradora/youse-frontend,1.999.2,MAL-2024-7086
 @yoyo-games/webcomponent-cookies,,MAL-2022-791
+@yshtxxproject/baileys,0.0.0-stage,MAL-2026-19072
+@yshtxxproject/baileys,0.0.1,MAL-2026-19072
 @yu-life/react-native-yu-watch,1.0.1,MAL-2024-7048
 @yu-life/yulife-bdd-framework,0.0.72,MAL-2024-7049
 @yuandc/aica,0.1.1,MAL-2026-10724
@@ -29656,6 +29693,7 @@ agent-patterns,,MAL-2025-6071
 agent-scheduler,0.0.1,MAL-2026-2726
 agent-starter,0.0.1,MAL-2026-2727
 agent-starter-pack,0.0.1,MAL-2026-6679
+agent-trace-kit,,MAL-2026-19080
 agentbas,,MAL-2024-10688
 agentbox,,MAL-2025-14156
 agentbse,,MAL-2025-2746
@@ -29878,6 +29916,7 @@ agricultural_viper_dumbs,,MAL-2025-99277
 agricultural_wombat_moccasin-32,,MAL-2025-99278
 agrifood-farming,,MAL-2022-894
 agttrn-devapptea,,MAL-2025-99279
+agui-session-recorder,,MAL-2026-19081
 agus-asinan21-sluey,,MAL-2025-61795
 agus-asinan23-sluey,,MAL-2025-61796
 agus-asinan29-riris,,MAL-2025-124855
@@ -41709,7 +41748,6 @@ azurevmtest,,MAL-2022-1398
 azurewebserverlogstosql,,MAL-2025-15274
 azuvnsermibkylhx,,MAL-2022-1399
 b04y1b,,MAL-2025-15275
-b20miner,0.3.1,MAL-2026-18365
 b2b-buyer-portal,55.55.56,MAL-2024-8964
 b2b-buyer-portal,55.55.58,MAL-2024-8964
 b2b-canaisdigitais,1.0.0,MAL-2023-8012
@@ -42171,6 +42209,7 @@ baidu-src-test,0.0.4,MAL-2025-191460
 baidu-src-test3,0.0.4,MAL-2025-191461
 baidu-src-test4,0.0.4,MAL-2025-192713
 baidu-tester,,MAL-2025-192665
+baidu-ti,,MAL-2026-19098
 baidu-tims,,MAL-2025-48590
 baidutop,,MAL-2025-15337
 baileeys,1.0.0,MAL-2026-18938
@@ -60253,7 +60292,8 @@ comments2,,MAL-2022-2119
 commerce-materials,1.0.0,MAL-2026-16330
 commerce-ml-cdk,,MAL-2022-2120
 commerce-sdk-react,,MAL-2022-2121
-commerce-utils,,MAL-2026-2497
+commerce-utils,0.0.1,MAL-2026-2497
+commerce-utils,0.0.2,MAL-2026-2497
 commercial-apricot-squid,,MAL-2025-67320
 commercial-black-sheep,,MAL-2025-67321
 commercial-blue-tarantula,,MAL-2025-67322
@@ -71945,6 +71985,7 @@ dir-auto-backup,,MAL-2025-2753
 dir-size-analyzer,,MAL-2025-2252
 dir-tree-generator,,MAL-2025-2754
 direct-aqua-beetle,,MAL-2025-67764
+direct-message-receiver,,MAL-2026-19086
 direct-rose-primate,,MAL-2025-67765
 direct-rose-wolf,,MAL-2025-67766
 direct-turquoise-felidae,,MAL-2025-67767
@@ -72142,6 +72183,7 @@ discord-api-docs,1.1.2,MAL-2024-9095
 discord-api-ts,4.6.7,MAL-2024-7750
 discord-badge,1.0.0,MAL-2022-2479
 discord-badge,1.0.8,MAL-2022-2479
+discord-badge-parser,,MAL-2026-19087
 discord-bot-3,1.0.0,MAL-2024-1344
 discord-bot-server,0.1.2,MAL-2025-190769
 discord-bots-api,,MAL-2025-18470
@@ -72164,6 +72206,7 @@ discord-color,1.0.8,MAL-2024-1327
 discord-colors,,MAL-2023-252
 discord-csr,,MAL-2026-11277
 discord-datas,,MAL-2024-1361
+discord-dm-parser,,MAL-2026-19088
 discord-easy-commands-v2,1.0.0,MAL-2025-5077
 discord-external,,MAL-2022-2481
 discord-fetchers,1.4.0,MAL-2024-1353
@@ -72200,6 +72243,7 @@ discord-search,0.1.2,MAL-2026-5244
 discord-search,0.1.3,MAL-2026-5244
 discord-self-user-bot,,MAL-2022-2488
 discord-self-v11,,MAL-2025-18474
+discord-selfbot-functions,,MAL-2026-19089
 discord-selfbot-tools,,MAL-2022-2489
 discord-selfbot-v11,,MAL-2025-18475
 discord-selfbot-v12,,MAL-2025-18476
@@ -72240,6 +72284,7 @@ discord-spammer-webhooks,,MAL-2023-2474
 discord-starter,,MAL-2026-11280
 discord-thief,,MAL-2022-2493
 discord-tqr,,MAL-2026-15977
+discord-user-parser,,MAL-2026-19090
 discord-utils-enhanced,1.0.0,MAL-2025-48592
 discord-utils-enhanced,1.0.1,MAL-2025-48592
 discord-utils-enhanced,1.0.10,MAL-2025-48592
@@ -72389,6 +72434,7 @@ discorddependency,,MAL-2022-2519
 discorddevsimple,3.0.1,MAL-2024-1152
 discordi.js,,MAL-2025-18484
 discordinfos,,MAL-2024-1140
+discordjs-dm-parse,,MAL-2026-19091
 discordjs-fetcher,,MAL-2024-155
 discordjs-fetcher-v13,1.0.0,MAL-2024-2103
 discordjs-fetcher-v13,1.1.3,MAL-2024-2103
@@ -88416,6 +88462,7 @@ fantastic_toad_z3n,,MAL-2025-94439
 fantastic_wolf_z3n,,MAL-2025-113906
 fantasy-android-react-native,,MAL-2022-2965
 fantasy-react-native,,MAL-2022-2966
+fapshi,1.1.4,MAL-2026-19077
 far-aquamarine-parakeet,,MAL-2025-68247
 far-cyan-mite,,MAL-2025-68248
 far-gray-pike,6.9.9,MAL-2024-9626
@@ -94864,6 +94911,7 @@ fusionjs-docs,1.0.0,MAL-2025-41988
 futebot,,MAL-2025-21081
 futf4,,MAL-2022-3251
 futilewm,,MAL-2025-21082
+futrou,2.0.40,MAL-2026-19074
 futuota,,MAL-2025-21083
 future-blue-koala,,MAL-2025-68480
 future-blush-crayfish,,MAL-2025-68481
@@ -105268,6 +105316,8 @@ health-cards-validation-sdk,99.0.9,MAL-2025-41289
 health-check-node,,MAL-2026-362
 health-check-nodejs,3.16.1,MAL-2024-7836
 health-gbm-common,,MAL-2024-962
+health-relay-client,1.0.3,MAL-2026-19094
+health-relay-client,1.0.4,MAL-2026-19094
 healthbot-container,,MAL-2025-42002
 healthbottestservice,,MAL-2025-5921
 healthbridge-design-system,1.0.0,MAL-2023-8100
@@ -106961,6 +107011,7 @@ hiro-experience-map,,MAL-2025-49576
 hislaine-notthedevs,,MAL-2025-103723
 hisnameisjc,,MAL-2025-42003
 hisnameisloopy,,MAL-2025-42004
+hissakdx-wix-ssr-callback-canary,,MAL-2026-19099
 hissing-ivory-owl,,MAL-2025-68679
 hissing-lavender-anglerfish,,MAL-2025-68680
 hissing-moccasin-octopus,,MAL-2025-138773
@@ -143041,6 +143092,7 @@ mcp-ci-runner-poc,1.0.0,MAL-2026-7318
 mcp-consultasdeveiculos-client,0.0.2,MAL-2026-15869
 mcp-consultasdeveiculos-client,0.1.0,MAL-2026-15869
 mcp-consultasdeveiculos-client,0.1.1,MAL-2026-15869
+mcp-contract-tester,,MAL-2026-19082
 mcp-dashboards-shared,1.0.0,MAL-2026-4296
 mcp-dev-toolkit,1.5.0,MAL-2026-14295
 mcp-echarts,0.8.1,MAL-2026-4146
@@ -153774,6 +153826,7 @@ nearby_spoonbill_z3n,,MAL-2025-106230
 nearby_wasp_z3n,,MAL-2025-128883
 nearby_xerinae_0xrequest,,MAL-2025-106231
 neat-rose-silverfish,,MAL-2025-69580
+neat-terminal-visualizer-84721,,MAL-2026-19083
 neat-yellow-flyingfish,,MAL-2025-138891
 neat_antlion_z3n,,MAL-2025-128884
 neat_bee_z3n,,MAL-2025-88764
@@ -178248,6 +178301,7 @@ psychological_zebra_z3n,,MAL-2025-58190
 psygen,,MAL-2025-30799
 pt-api-tools,1.0.0,MAL-2024-1165
 pt-api-tools,9.9.9,MAL-2024-1165
+pt-logger-telemetry-eax0x1,,MAL-2026-19106
 pt-mono,,MAL-2025-30800
 pt-sc-demo-app,1.0.1,MAL-2026-2567
 pt-sc-logger,1.0.0,MAL-2026-2568
@@ -184665,6 +184719,7 @@ react-stylizer,,MAL-2025-6341
 react-svg-anchor,,MAL-2026-1363
 react-svg-animator,,MAL-2026-5079
 react-svg-bundler,,MAL-2025-192312
+react-svg-chunk,,MAL-2026-19096
 react-svg-config,,MAL-2025-5517
 react-svg-fill,,MAL-2025-192313
 react-svg-handler,,MAL-2026-822
@@ -184826,6 +184881,9 @@ reacytjs,1.1.4,MAL-2026-7370
 reacytjs,8.7.6,MAL-2026-7370
 read-async,,MAL-2025-66547
 read-cli-input,,MAL-2025-31878
+read-react-app-in,,MAL-2026-19100
+read-react-app-out,,MAL-2026-19101
+read-react-app-test,,MAL-2026-19102
 read.node,,MAL-2022-5701
 readabl-steam,,MAL-2022-5702
 readable-astro-npm-prompts,,MAL-2025-147076
@@ -187409,6 +187467,7 @@ rewadmin,,MAL-2025-32183
 rewards-mfe,,MAL-2024-7984
 rewindbbs,,MAL-2025-32184
 rex-design,,MAL-2022-5776
+rex-react-diag-tools-v1,,MAL-2026-19104
 rexalord,,MAL-2025-32185
 rexchan2139_tools,,MAL-2025-32186
 rexivynfjbdlpakm,,MAL-2022-5777
@@ -195349,6 +195408,10 @@ saurus-assets,,MAL-2026-10660
 sauruslord-baileys,3.0.0,MAL-2026-10661
 sauruslord-baileys,3.0.1,MAL-2026-10661
 sauruslord-baileys,3.0.2,MAL-2026-10661
+sauruspro-bail,0.0.0-stage,MAL-2026-19073
+sauruspro-bail,5.0.0,MAL-2026-19073
+sauruspro-bail,5.0.1,MAL-2026-19073
+sauruspro-bail,5.0.2-alpha.spr.test,MAL-2026-19073
 sautoppc,,MAL-2025-32724
 savanna-butterfly-wle288-project,,MAL-2025-32725
 savanna-eagle-cne079-project,,MAL-2025-32726
@@ -196877,6 +196940,7 @@ selective_tarantula_z3n,,MAL-2025-61252
 selective_walrus_z3n,,MAL-2025-96501
 selective_zebra_0xrequest,,MAL-2025-108517
 selectkit1,,MAL-2025-238
+selectlist-polyfill-lite,,MAL-2026-19103
 selektion,,MAL-2025-32918
 selenipy,,MAL-2025-32919
 selenium-antares-lynx-cz-conventional-changelog,,MAL-2025-147799
@@ -202426,6 +202490,7 @@ smooth_wombat_z3n,,MAL-2025-108886
 smp-imsc,99.9.9,MAL-2024-8929
 smplpdo,,MAL-2025-33466
 smrf-test,1.0.0,MAL-2025-242
+sms-activate.js,,MAL-2026-19092
 sms-stedin-afronden,,MAL-2025-33467
 sms-stedin-filters,,MAL-2025-33468
 sms-stedin-leveringsherstel,,MAL-2025-33469
@@ -203271,6 +203336,15 @@ soltinel-pro,0.2.0,MAL-2026-16096
 soltinel-pro,0.2.1,MAL-2026-16096
 soltinel-pro,0.2.2,MAL-2026-16096
 solve-half-held,,MAL-2025-46111
+solvit-cli,0.0.0-stage,MAL-2026-19097
+solvit-cli,0.1.0,MAL-2026-19097
+solvit-cli,0.1.1,MAL-2026-19097
+solvit-cli,0.1.2,MAL-2026-19097
+solvit-cli,0.2.1,MAL-2026-19097
+solvit-cli,0.4.2,MAL-2026-19097
+solvit-cli,0.4.3,MAL-2026-19097
+solvit-cli,0.4.4,MAL-2026-19097
+solvit-cli,0.5.0,MAL-2026-19097
 solvix,,MAL-2025-33649
 solweb3,,MAL-2025-2527
 some-buidler-plugin,,MAL-2022-6209
@@ -210119,6 +210193,7 @@ tailwind-keyframes,2.0.6,MAL-2026-18083
 tailwind-kinetic,0.0.0-stage,MAL-2026-18084
 tailwind-kinetic,2.0.6,MAL-2026-18084
 tailwind-kinetic,2.0.8,MAL-2026-18084
+tailwind-kinetix,,MAL-2026-19078
 tailwind-lines-clamp,,MAL-2026-2655
 tailwind-logic,,MAL-2025-192642
 tailwind-magic,,MAL-2025-48584
@@ -211676,6 +211751,10 @@ tcfm,,MAL-2022-6427
 tcgplayer-developer,100.0.20,MAL-2024-8827
 tcgplayer-developer,100.0.21,MAL-2024-8827
 tchaik,,MAL-2025-34595
+tchain-api,1.2.2,MAL-2026-19084
+tchain-api,1.2.3,MAL-2026-19084
+tchain-api,1.2.4,MAL-2026-19084
+tchain-api,1.2.5,MAL-2026-19084
 tchalk,,MAL-2022-6428
 tchap-id-node,,MAL-2025-34596
 tchap-landing-page,7.0.2,MAL-2025-48548
@@ -219153,6 +219232,7 @@ text-crate-check,1.0.0,MAL-2026-14503
 text-helper,,MAL-2025-36761
 text-line-parser,1.0.0,MAL-2026-11151
 text-openai-embedding-js,,MAL-2025-46308
+text-regexer,4.3.0,MAL-2026-19093
 text-transform-plus,1.2.4,MAL-2026-15915
 text-unicode-webpack,1.0.0,MAL-2025-347
 text-ytabl,,MAL-2022-6537
@@ -248685,6 +248765,12 @@ yukistage,1.1.7,MAL-2026-19042
 yuleibest,,MAL-2025-40659
 yuliawhh,2.0.0,MAL-2026-19043
 yumlist,,MAL-2025-40660
+yummy-bolts,1.0.0,MAL-2026-19107
+yummy-bolts,1.1.0,MAL-2026-19107
+yummy-bolts,1.2.0,MAL-2026-19107
+yummy-bolts,1.3.0,MAL-2026-19107
+yummy-bolts,1.3.1,MAL-2026-19107
+yummy-bolts,1.4.0,MAL-2026-19107
 yummy-plum-whitefish,,MAL-2025-71755
 yummy-tan-eagle,,MAL-2025-71756
 yummy_anteater_z3n,,MAL-2025-97517
