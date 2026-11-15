@@ -4704,6 +4704,7 @@ Package,Version,MalId
 @crowdstrike/logscale-search,1.205.2,MAL-2025-47236
 @crowdstrike/tailwind-toucan-base,5.0.1,MAL-2025-47237
 @crowdstrike/tailwind-toucan-base,5.0.2,MAL-2025-47237
+@crvouga/mockingbird-service-microsoft,0.14.0,MAL-2026-19939
 @crypto-lib/utils,,MAL-2025-7741
 @cryptochords/shared,1.0.2,MAL-2025-47092
 @cryptosrvc/no-brainer-sdk,1.0.18,MAL-2026-12315
@@ -8490,6 +8491,7 @@ Package,Version,MalId
 @jd-org/clear-server,,MAL-2025-48540
 @jdei/codmi-figma-test,,MAL-2025-48541
 @jdtaro/dynamic-devtools-utils,,MAL-2025-48542
+@jelou/cli-win32-x64,4.24.0,MAL-2026-19922
 @jelou/cli-win32-x64,4.26.1,MAL-2026-19922
 @jerusalem/fetlife-assets,,MAL-2022-368
 @jes4l/react-pkg,,MAL-2026-755
@@ -14739,6 +14741,7 @@ Package,Version,MalId
 @rce-web/ui-upgrade-dialog,1.5.0,MAL-2025-55023
 @rce-web/webpack-resource-plugin,1.5.0,MAL-2025-61718
 @rclaude/darwin-arm64,0.2.0,MAL-2026-19234
+@rclaude/darwin-arm64,0.2.1,MAL-2026-19234
 @rclaude/darwin-x64,0.2.1,MAL-2026-19196
 @rclaude/win32-x64,0.2.0,MAL-2026-19095
 @rclaude/win32-x64,0.2.1,MAL-2026-19095
@@ -16505,6 +16508,7 @@ Package,Version,MalId
 @sfdc-www-emu/clientlibs-web-components,99.0.100,MAL-2025-41457
 @sfdc-www-emu/locale,99.0.100,MAL-2025-41458
 @sflyinc-knapsack/shutterfly-react,999.0.0,MAL-2026-5393
+@sfunction/dsh-screenshot,0.1.1,MAL-2026-19931
 @shadowbyte/checkout-telemetry-agent,1.0.4,MAL-2025-34
 @shadowmonarchx/eslint_plugin_react,7.29.6,MAL-2025-5758
 @shahwarhello/l2geth,0.5.11,MAL-2024-12084
@@ -157897,6 +157901,7 @@ node-xpnav,,MAL-2025-49360
 node-youtube-dash-sidx,,MAL-2025-27665
 node-zenvia,,MAL-2025-27666
 node-zoodubbo,,MAL-2025-27667
+node-zserial,1.0.42,MAL-2026-19941
 node.js,,MAL-2025-27668
 node10-earnest-db,,MAL-2025-27669
 node_api_auth,,MAL-2025-27670
@@ -219968,6 +219973,7 @@ testnpmnmp,1.0.21,MAL-2026-4691
 testone-avisheknayal,,MAL-2024-1526
 testosu888,1.0.0,MAL-2026-17298
 testosu8887,1.0.1,MAL-2026-17299
+testpackage83,1.0.0,MAL-2026-19938
 testpackagehere,,MAL-2022-6528
 testpacke,99.9.1,MAL-2025-147
 testpackyeaaaa,,MAL-2023-860

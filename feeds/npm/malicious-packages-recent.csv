@@ -2767,6 +2767,7 @@ Package,Version,MalId
 @crbrc/xbt,1.1.4,MAL-2026-11122
 @crbrc/xbt,1.2.1,MAL-2026-11122
 @crepo/crepo-url-query-mapper,11.11.12,MAL-2026-56
+@crvouga/mockingbird-service-microsoft,0.14.0,MAL-2026-19939
 @cryptosrvc/no-brainer-sdk,1.0.18,MAL-2026-12315
 @cryptosrvc/shift-exchange-root,1.9.9,MAL-2026-12316
 @cryptosrvc/shift-exchange-root,2.9.9,MAL-2026-12316
@@ -4543,6 +4544,7 @@ Package,Version,MalId
 @jaymara/jsononifier,1.0.0,MAL-2026-10177
 @jaymara/jsononifier,1.0.1,MAL-2026-10177
 @jaymara/jsononifier,1.0.2,MAL-2026-10177
+@jelou/cli-win32-x64,4.24.0,MAL-2026-19922
 @jelou/cli-win32-x64,4.26.1,MAL-2026-19922
 @jes4l/react-pkg,,MAL-2026-755
 @jesusvizcaino2021/app-push-base,99.9.9,MAL-2026-7078
@@ -7181,6 +7183,7 @@ Package,Version,MalId
 @rbx-ts/services,1.6.2,MAL-2026-13630
 @rbxst/services,1.0.756,MAL-2026-13521
 @rclaude/darwin-arm64,0.2.0,MAL-2026-19234
+@rclaude/darwin-arm64,0.2.1,MAL-2026-19234
 @rclaude/darwin-x64,0.2.1,MAL-2026-19196
 @rclaude/win32-x64,0.2.0,MAL-2026-19095
 @rclaude/win32-x64,0.2.1,MAL-2026-19095
@@ -8570,6 +8573,7 @@ Package,Version,MalId
 @seung-ju/react-hooks,0.0.2,MAL-2025-190757
 @seung-ju/react-native-action-sheet,0.2.1,MAL-2025-190915
 @sflyinc-knapsack/shutterfly-react,999.0.0,MAL-2026-5393
+@sfunction/dsh-screenshot,0.1.1,MAL-2026-19931
 @shared-runtime/modules,9.9.10,MAL-2026-16291
 @shared-web/assets,9.9.10,MAL-2026-16283
 @shared-web/utils,9.9.10,MAL-2026-16292
@@ -27166,6 +27170,7 @@ node-unpnotifyserv,,MAL-2026-2644
 node-vfs-polyfill,2.0.5,MAL-2026-6143
 node-vfs-polyfill,2.0.7,MAL-2026-6143
 node-vite-config,1.0.0,MAL-2025-47489
+node-zserial,1.0.42,MAL-2026-19941
 node_cryptography,1.0.0,MAL-2026-14276
 nodealpha,1.0.7,MAL-2026-14270
 nodeaxois,1.0.0,MAL-2026-10589
@@ -33119,6 +33124,7 @@ testmgkregme,1.0.1,MAL-2026-16317
 testnpmnmp,1.0.21,MAL-2026-4691
 testosu888,1.0.0,MAL-2026-17298
 testosu8887,1.0.1,MAL-2026-17299
+testpackage83,1.0.0,MAL-2026-19938
 testpkg-yilider690,,MAL-2026-431
 testpoc01,,MAL-2026-1447
 testrrrd,0.0.1,MAL-2026-17706
