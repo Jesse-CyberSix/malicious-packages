@@ -18369,6 +18369,7 @@ Package,Version,MalId
 @thedelta/eslint-config,1.0.2,MAL-2025-191055
 @theguyswithaball/color-utils,,MAL-2026-19175
 @theguyswithaball/scrambler,,MAL-2026-19176
+@theholocron/holocron-plugin-discord,5.0.0-alpha.436,MAL-2026-19943
 @thekrishnakarn/healthier-app,,MAL-2025-3868
 @themarker/fetlife-assets,,MAL-2022-638
 @theoretical123/ethers,,MAL-2025-2490
@@ -19265,6 +19266,7 @@ Package,Version,MalId
 @unitedhealthgroup/fetlife-assets,,MAL-2022-693
 @unity-dashboard/cloud-build,,MAL-2022-694
 @unity-dashboard/iframe-messages,,MAL-2022-695
+@univerjs-pro/sheets-pivot-chart,1.5.0,MAL-2026-19944
 @universal-search/search-proxy-api-client,,MAL-2025-9585
 @universeorg/dotenv,,MAL-2026-2220
 @unkn0wnartist/h1-poc-test,1.0.0,MAL-2025-5352
@@ -173686,6 +173688,7 @@ pmd-github-action,7.9.9,MAL-2023-8125
 pmd-github-action,9.9.9,MAL-2023-8125
 pmdapp,,MAL-2025-29443
 pmg,,MAL-2025-29444
+pmhq-dist-win-x64,9.0.2,MAL-2026-19945
 pmircuser,,MAL-2025-29445
 pml-edi-parser,,MAL-2025-29446
 pmmmwh,,MAL-2025-1375
