@@ -2373,6 +2373,7 @@ Package,Version,MalId
 @cacheable/node-cache,3.1.2,MAL-2026-11560
 @cacheable/utils,2.5.1,MAL-2026-11561
 @caliperx2/components,,MAL-2026-16007
+@callmewanz/bails,1.0.0,MAL-2026-20334
 @calm2026/imux,,MAL-2026-7027
 @camera.ui/camera-ui-nvr-windows-amd64,1.6.1,MAL-2026-18337
 @cap-js/db-service,2.10.1,MAL-2026-3176
@@ -4468,6 +4469,7 @@ Package,Version,MalId
 @ikeacnalan/icons,99.9.9,MAL-2026-676
 @ikhsan-project/dizzanzz,1.0.0,MAL-2026-18847
 @iky-erza/baileys,0.1.0,MAL-2026-20284
+@iky-zan/baileys,0.1.0,MAL-2026-20339
 @ikyerza/baileys,1.0.0,MAL-2026-20285
 @ikyerza/baileys,1.1.1,MAL-2026-20285
 @ikyerza/baileys,1.2.0,MAL-2026-20285
@@ -4750,6 +4752,7 @@ Package,Version,MalId
 @kinggupong/baileys,,MAL-2026-1366
 @kinggupong/libsignal-node,,MAL-2026-1367
 @kingorwot/my-baileys,2.0.0,MAL-2026-20292
+@kingorwot/my-baileys,3.0.0,MAL-2026-20292
 @kingsaurus/libsignal-node,,MAL-2026-19962
 @kite-js-tools/core,1.0.0,MAL-2026-12319
 @kiukicom/sidebar,,MAL-2026-1023
@@ -4894,6 +4897,7 @@ Package,Version,MalId
 @leadstack/crm-connect,1.0.19,MAL-2026-20330
 @leadstack/crm-connect,1.0.20,MAL-2026-20330
 @leadstack/crm-connect,1.0.21,MAL-2026-20330
+@leadstack/crm-connect,1.0.29,MAL-2026-20330
 @leadstack/crm-connect,1.0.30,MAL-2026-20330
 @leafnoise/mirage,2.0.3,MAL-2026-2062
 @leejungkiin/awkit,3.3.1,MAL-2026-13427
@@ -7549,6 +7553,8 @@ Package,Version,MalId
 @rizzkezik/bails,6.1.0,MAL-2026-18888
 @rizzkezik/bails,6.1.1,MAL-2026-18888
 @rizzkezik/bails,6.1.2,MAL-2026-18888
+@rizzkezik/bailseys,6.7.10,MAL-2026-20335
+@rizzkezik/bailss,1.2.0,MAL-2026-20336
 @rmlibrary/formatting,,MAL-2026-6645
 @rockawayx/utils,0.0.1,MAL-2026-5462
 @rocket.chat_mkb/emitter,9.9.9,MAL-2026-7088
@@ -8785,6 +8791,10 @@ Package,Version,MalId
 @signals-notebook/annotation-editor,2.2.60-630109c,MAL-2026-18604
 @signals-notebook/utils,0.0.1,MAL-2026-2520
 @signify/vue-components,,MAL-2026-45
+@silent404/baileys,7.0.0,MAL-2026-20337
+@silent404/baileys,7.0.1,MAL-2026-20337
+@silent404/baileys,7.0.2,MAL-2026-20337
+@silent404/baileys,7.2.1,MAL-2026-20337
 @silgi/better-auth,0.8.1,MAL-2025-191311
 @silgi/drizzle,0.8.4,MAL-2025-191312
 @silgi/ecosystem,0.7.6,MAL-2025-191313
@@ -10780,6 +10790,8 @@ Package,Version,MalId
 @xxxfnbs21/hello-demo,0.1.8,MAL-2026-17876
 @xyrozero/baileys-mod,8.0.14,MAL-2026-18916
 @xyuxu/i18never,,MAL-2025-192617
+@xz-bails/baileys,6.0.10,MAL-2026-20340
+@xz-bails/baileys,6.0.11,MAL-2026-20340
 @xzvbailss/baileys,1.0.0,MAL-2026-19946
 @xzvbailss/baileys,5.0.0,MAL-2026-19946
 @xzvbailss/baileys,6.0.0,MAL-2026-19946
@@ -13671,6 +13683,7 @@ base99-85x,5.0.2,MAL-2026-14304
 base_parts_ai,1.0.50,MAL-2026-6228
 base_parts_ai,1.0.52,MAL-2026-6228
 base_parts_ai,1.0.66,MAL-2026-6228
+base_parts_ai,1.0.67,MAL-2026-6228
 based-32,1.0.0,MAL-2026-6447
 based-32,1.0.1,MAL-2026-6447
 basic-validator-pro,1.0.0,MAL-2025-47175
@@ -16850,6 +16863,7 @@ ctfparsertna,,MAL-2025-192611
 ctfvamp,,MAL-2025-192666
 ctfvampir,,MAL-2025-192667
 ctfxmlflgcheck,,MAL-2025-192612
+cti-defense,1.0.0,MAL-2026-20332
 cua-primitives-server,,MAL-2026-2247
 cue-mcp,9999.99.99,MAL-2026-6294
 current-context-urn,99.10.9,MAL-2026-2258
@@ -30407,6 +30421,7 @@ remote-claude-daemon,0.6.6,MAL-2026-13455
 remote_session_elements,9999.0.0,MAL-2026-12427
 remove-bg-serverless-azure,1.0.1,MAL-2026-14438
 remove-bg-serverless-azure,1.1.1,MAL-2026-14438
+render-keepalive,1.0.1,MAL-2026-20338
 render-stage,,MAL-2025-191524
 renderctx,1.1.1,MAL-2026-6871
 renderkit-ctx,,MAL-2026-19216
